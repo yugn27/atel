@@ -8,7 +8,9 @@
 # Site settings
 title: Atal Trinkling Chapter
 description: > # this means to ignore newlines until "baseurl:"
-Atal Trinkling Chapter.
+
+ Atal Trinkling Chapter.
+
 baseurl: "/atel" # the subpath of your site, e.g. /blog
 url: "https://yugn27.github.io/atel"
 permalink: :title/
