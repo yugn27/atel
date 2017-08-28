@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Atal Tinkering Chapter
+title: About
 permalink: /about/
 show-in-menu: yes
 ---
