@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "Design for ISRO website"
+title:  "Design of Rocket 3d Model"
 description: Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.
 date:   2016-09-14 10:50:00 +0530
 categories: design
-author: ashwathama
+author: yashn
 ---
-
-![rocket design]({{site.baseurl}}/images/rocket.svg)
-
-<a href='http://www.freepik.com/free-vector/rocket-launch_783586.htm'>Designed by Freepik</a>
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 
