@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "What made me decide to travel the world?"
+title:  "What is the use of multi meter?"
 description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
 categories: life
-author: ashwathama
+author: yashn
 ---
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 
-![]({{site.baseurl}}/images/lost-2.jpg)
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 
