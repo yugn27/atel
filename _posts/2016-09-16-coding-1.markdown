@@ -1,17 +1,16 @@
 ---
 layout: post
-title:  "How I Coded a Movie Website"
+title:  "How to program Arduino"
 description: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 date:   2016-09-11 10:50:00 +0530
 categories: code
-author: ashwathama
+author: yashn
 ---
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 
 
 ![]({{site.baseurl}}/images/lost-9.jpg)
 
-<a href='http://www.freepik.com/free-vector/user-experience-with-web-design-elements_846615.htm'>Designed by Freepik</a>
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 
