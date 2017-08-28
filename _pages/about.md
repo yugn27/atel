@@ -1,58 +1,23 @@
 ---
 layout: page
-title: About
+title: Atal Tinkering Chapter
 permalink: /about/
 show-in-menu: yes
 ---
 
-The theme Ashwath is designed keeping smartphone and iPad users in mind. A clean, minimal, app like design is more comfortable to use on a mobile browser. It looks real nice on desktop as well.  
+Atal Tinkering Laboratories
 
+**Background**
+
+With a vision to ‘Cultivate one Million children in India as Neoteric Innovators’, Atal Innovation Mission is establishing Atal Tinkering Laboratories (ATLs) in schools across India. The objective of this scheme is to foster curiosity, creativity and imagination in young minds; and inculcate skills such as design mindset, computational thinking, adaptive learning, physical computing etc.
 Full version will have the following options.
 
-1. Color Schemes
-2. Pagination
-3. Categories customization guide
-4. Author section
 
-Check out [full version]({{site.full-url}}){: target="_blank"}
+**Key Features of ATL**
 
-**Buy this theme**
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="6ETS5UPR3XHEJ">
-<div class="tab">
-<table>
-<tr><td><input type="hidden" name="on0" value="Add ons">Add ons</td></tr><tr><td><select style="border: 1px solid;" name="os0">
-	<option value="Just the theme + 3 months support">Theme + 3mnths Support $12.00 USD</option>
-	<option value="Initial installation Guide">Theme + Installation $18.00 USD</option>
-	<option value="Extended 12 months support">Theme + 12mnths Support $25.00 USD</option>
-</select> </td></tr>
-</table>
-</div>
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form>
-
-<style>
-
-form {
-    max-width: 100%;
-    border:1px solid #777;
-    padding: 20px 5px;
-    display: inline-block;
-    margin-bottom: 1em;
-    }
-    
-.tab {
-    overflow-x: scroll;
-}
-</style>
+ATL is a work space where young minds can give shape to their ideas through hands on do-it-yourself mode; and learn innovation skills. Young children will get a chance to work with tools and equipment to understand the concepts of STEM (Science, Technology, Engineering and Math). ATL would contain educational and learning ‘do it yourself’ kits and equipment on – science, electronics, robotics, open source microcontroller boards, sensors and 3D printers and computers. Other desirable facilities include meeting rooms and video conferencing facility.
+In order to foster inventiveness among students, ATL can conduct different activities ranging from regional and national level competitions, exhibitions, workshops on problem solving, designing and fabrication of products, lecture series etc. at periodic intervals
 
 
-
-**Does the theme deserve a star?**
-
-<a class="github-button" href="https://github.com/sharu725/ashwath" data-style="mega" data-count-href="/sharu725/ashwath/stargazers" data-count-api="/repos/sharu725/ashwath#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/ashwath on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+**Atal Tinkering Chapter**
+It will help Student to learn things from home bu using there parents smart phone anywhere any time.
