@@ -9,20 +9,6 @@ Demo: [http://webjeda.com/ashwath/](http://webjeda.com/ashwath/)
 * Your new site should be ready.
 
 
-## Screenshots
-Default theme:
-
-![ashwath jekyll theme](http://webjeda.com/ashwath/images/Default.png)
-
-Color schemes (Full version)
-
-![ashwath jekyll theme](http://webjeda.com/ashwath/images/Purple.png)
-
-![ashwath jekyll theme](http://webjeda.com/ashwath/images/Blood.png)
-
-![ashwath jekyll theme](http://webjeda.com/ashwath/images/Mango.png)
-
-
 For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
 
 ## License
