@@ -20,13 +20,56 @@ Here is a nice illustration:
 ![]({{site.baseurl}}/images/Ohms-law-cartoon-cropped.jpg)
 
 
-**Basic Electricity**
+# Basic Electricity
+
+![]({{site.baseurl}}/images/bulb-battery-105x300.png)
 
 When you connect a small light bulb to the positive and the negative side of a battery, you will get a closed circuit where electrons can flow between the terminals and make the lamp shine. Inside the wires of this circuits, you will have electrons flowing.
 When I started out in electronics, I misunderstood something. I thought that when a battery got connected, the electrons started from the battery and had to travel all the way through the wire, up to the bulb, before it was lit. But this is not the case.
 A wire already has electrons in it. And when you connect a battery and make a closed circuit, they start to move. It’s like a pipe filled with marbles. When you put a marble in on one side, another comes out on the other side right away. You don’t have to wait. It happens momentarily.
 
-![]({{site.baseurl}}/images/bulb-battery-105x300.png)
+
+
+# What Is A Resistor?
+
+![]({{site.baseurl}}/images/resistor-public-domain-modified.jpg)
+
+A resistor is nothing magic. Take a long wire and measure the resistance, and you will realize that resistance is just a normal property of wires (except for superconductors).
+Some resistors are made up of just that. A long wire.
+resistor-public-domain-modified
+
+
+# What Does The Resistor Do To My Circuit?
+
+The resistor is a passive device and doesn’t do anything actively to your circuit.
+It’s actually a pretty boring device. If you add some voltage to it, nothing really happens. Well, maybe it gets warm, but that’s it.
+BUT, by using resistors, you can design your circuit to have the currents and voltages that you want to have in your circuit.
+So the resistor gives the designer control over his circuit!
+
+
+# Learn To Work With Resistors
+
+![]({{site.baseurl}}/images/current-limiting-resistor-with-led.png)
+
+In the beginning of my electronics career I thought it seemed like resistor were just randomly placed around a circuit and I thought that you didn’t really need them.
+
+For example I remember seeing a circuit with a 9V battery, a resistor and an LED. Then I tried using only the battery and the LED, and it still worked!
+But after a few seconds the LED turned really hot. So hot I almost burned my fingers. Then I started to realize that maybe there was something to these resistors.
+
+
+# How to Use Ohms Law
+
+Ohms law was found by Georg Ohm and it goes a little something like this:
+**V = RI**
+![]({{site.baseurl}}/images/simple-circuit-1.png)
+V is voltage, R is resistance and I is current.
+The law states that a voltage potential equals the current multiplied by the resistance.
+It is used VERY often. It is THE formula in electronics.
+You can switch it around and get R = V/I or I = V/R. As long as you have two of the variables, you can calculate the last.
+
+
+
+
 
 
 
