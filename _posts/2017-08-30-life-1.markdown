@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "How to use Resistence"
-description: orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+title:  "Chapter 1-Basic Electronic"
+description: Chapter 1-Basic Electronic. 
 categories: Electronic
 author: yashn
 ---
@@ -68,3 +68,7 @@ V is voltage, R is resistance and I is current.
 The law states that a voltage potential equals the current multiplied by the resistance.
 It is used VERY often. It is THE formula in electronics.
 You can switch it around and get R = V/I or I = V/R. As long as you have two of the variables, you can calculate the last.
+
+# Basic circuit
+![]({{site.baseurl}}/images/basic-led-circuit-withbattery.png)
+basic-led-circuit-withbattery.png
