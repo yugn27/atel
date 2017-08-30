@@ -5,9 +5,31 @@ description: orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean com
 categories: Electronic
 author: yashn
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 
-![]({{site.baseurl}}/images/lost-1.jpg)
+**Step 1: Get An Overview Of The Basics**
+
+The first step to take, is to get a simple understanding of the basic concepts in electronics for beginners.
+
+Voltage, Current and Resistance
+# Current is measured in Amp or A
+# Voltage is measured in Volt or V
+# Resistance is measured in Ohm or 
+
+
+Here is a nice illustration:
+![]({{site.baseurl}}/images/Ohms-law-cartoon-cropped.jpg)
+
+
+**Basic Electricity**
+
+When you connect a small light bulb to the positive and the negative side of a battery, you will get a closed circuit where electrons can flow between the terminals and make the lamp shine. Inside the wires of this circuits, you will have electrons flowing.
+When I started out in electronics, I misunderstood something. I thought that when a battery got connected, the electrons started from the battery and had to travel all the way through the wire, up to the bulb, before it was lit. But this is not the case.
+A wire already has electrons in it. And when you connect a battery and make a closed circuit, they start to move. It’s like a pipe filled with marbles. When you put a marble in on one side, another comes out on the other side right away. You don’t have to wait. It happens momentarily.
+
+![]({{site.baseurl}}/images/bulb-battery-105x300.png)
+
+
+
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 
