@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
  Atal Trinkling Chapter.
 
 baseurl: "/atel" # the subpath of your site, e.g. /blog
-url: "https://yugn27.github.io/atel"
+url: "https://yugn27.github.io/atel/"
 permalink: :title/
 full-url: "https://yugn27.github.io/atel" # the base hostname & protocol for your site
 
@@ -27,11 +27,7 @@ https-yugn27-github-io-atel:
 # Tracker
 analytics: UA-83979019-1
 
----
-layout: default
-comments: true
-# other options
----
+
 
 # Form Settings
 #
