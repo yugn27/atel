@@ -6,14 +6,14 @@ categories: Electronic
 author: yashn
 ---
 
-**Step 1: Get An Overview Of The Basics**
+# Step 1: Get An Overview Of The Basics
 
 The first step to take, is to get a simple understanding of the basic concepts in electronics for beginners.
 
 Voltage, Current and Resistance
-# Current is measured in Amp or A
-# Voltage is measured in Volt or V
-# Resistance is measured in Ohm or 
+ Current is measured in Amp or A
+ Voltage is measured in Volt or V
+ Resistance is measured in Ohm or 
 
 
 Here is a nice illustration:
