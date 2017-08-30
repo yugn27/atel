@@ -27,6 +27,12 @@ https-yugn27-github-io-atel:
 # Tracker
 analytics: UA-83979019-1
 
+---
+layout: default
+comments: true
+# other options
+---
+
 # Form Settings
 #
 # Contact form can be enabled by getting an API key from https://getsimpleform.com/
