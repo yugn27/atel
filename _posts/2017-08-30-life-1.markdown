@@ -71,4 +71,4 @@ You can switch it around and get R = V/I or I = V/R. As long as you have two of 
 
 # Basic circuit
 ![]({{site.baseurl}}/images/basic-led-circuit-withbattery.png)
-basic-led-circuit-withbattery.png
+
