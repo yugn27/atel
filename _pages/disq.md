@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Discussion
+permalink: /about/
 show-in-menu: yes
 ---
 
