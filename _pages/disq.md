@@ -1,7 +1,7 @@
  ---
 layout: page
 title: Discussion
-permalink: /about/
+permalink: /disq/
 show-in-menu: yes
 ---
 
