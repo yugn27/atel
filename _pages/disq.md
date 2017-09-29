@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: Discussion
 permalink: /disq/
