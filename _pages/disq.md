@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Disqueat
-permalink: /about/
-show-in-menu: yes
 ---
 
 <div id="disqus_thread"></div>
