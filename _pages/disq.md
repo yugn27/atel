@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Discussion
+show-in-menu: yes
 ---
 
 <div id="disqus_thread"></div>
