@@ -6,7 +6,7 @@ show-in-menu: yes
 ---
 
 <div id="disqus_thread"></div>
-<script defer>
+<script>
 
 /**
 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
