@@ -1,4 +1,4 @@
----
+ ---
 layout: page
 title: Discussion
 permalink: /about/
@@ -6,7 +6,7 @@ show-in-menu: yes
 ---
 
 <div id="disqus_thread"></div>
-<script>
+<script defer>
 
 /**
 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
