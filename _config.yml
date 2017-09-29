@@ -22,7 +22,7 @@ sass:
   style: compressed
 
 # Comments - Go to Disqus.com > sign up > get the short-name > insert it here
-#atlchapterapp:
+disqus-shortname:atlchapterapp
 
 # Tracker
 #analytics: UA-83788614-9
