@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Disqueat
+title: Discussion
 ---
 
 <div id="disqus_thread"></div>
