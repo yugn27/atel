@@ -5,6 +5,10 @@ permalink: /disq/
 show-in-menu: yes
 ---
 
+
+{% include disqus.html %} 
+{% endif %} 
+
 <div id="disqus_thread"></div>
 <script>
 
