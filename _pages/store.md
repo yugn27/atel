@@ -9,11 +9,7 @@ show-in-menu: yes
 <style>
     @import "compass/css3";
 
-/* 
-  Author: Sravan Kumar
-  Website: http://wittysparks.com
-  License: none (public domain)
-*/
+
 body{ font:normal 12px/25px Arial, Helvetica, sans-serif}  
 .divform{display:table;border-collapse:collapse}
 .divform .r{display:table-row}
@@ -88,7 +84,7 @@ select{text-indent:5px;line-height:24px}
     </div>
     
     
-    
+    <div class="c">
     <button type="submit" class="c"  name="Submit" id="Submit" onclick="postContactToGoogle()" value="Submit">Submit</button>
     <div class="c"><input name="Submit" id="Submit" type="submit" onclick="postContactToGoogle()" value="Submit"/></div>
     
