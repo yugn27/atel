@@ -69,11 +69,7 @@ select{text-indent:5px;line-height:24px}
   <h2>Free Dev Kit</h2>
   <form name="wittysparks" id="formRequest">
       
-  <input type="checkbox" name="vehicle" value="Arduino"> Arduino ( with cabel)<br>
-  <input type="checkbox" name="vehicle" value="JumpersWires">Jumpers Wires<br>
-  <input type="checkbox" name="vehicle" value="Resistance"> Resistance Set<br>
-  <input type="checkbox" name="vehicle" value="Led">Resistance Set<br>
-  <input type="checkbox" name="vehicle" value="SensorsKit"> Sensors Kit<br>
+  
   
   
   <div class="form-group">
