@@ -45,7 +45,7 @@ version: 0.9
 
 change-date-bg: no
 
-permalink: /404.md
+#permalink: /404.md
 
 # Build settings
 markdown: kramdown
