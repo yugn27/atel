@@ -79,7 +79,7 @@ select{text-indent:5px;line-height:24px}
     
     <div class="form-group">
       <label for="Email">Email</label>
-      <input type="Email" class="form-control" id="Email" placeholder="Enter email" name="Email">
+      <input type="text" class="form-control" id="Email" placeholder="Enter email" name="Email">
     </div>
     
     <div class="form-group">
