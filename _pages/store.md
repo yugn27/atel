@@ -68,6 +68,9 @@ select{text-indent:5px;line-height:24px}
 <div class="container">
   <h2>Free Dev Kit</h2>
   <form name="wittysparks" id="formRequest">
+      
+      <input type="checkbox" name="vehicle" value="Bike"> I have a bike<br>
+  <input type="checkbox" name="vehicle" value="Car" checked> I have a car<br>
   <div class="form-group">
       <label for="Name">Name</label>
       <input type="text" class="form-control" id="Name" placeholder="Enter name" name="Name">
