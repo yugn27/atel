@@ -7,8 +7,13 @@ comments: true
 active: active
 ---
 
+We would like to hear from Students. 
 
-**Thanks for showing intrest in Free Store!  See you soon!**. 
+ 
+``+918888835620``<br> 
+``yugn27@gmail.com`` 
+
+**Happy to Assist you**. 
 
 
 <style>
