@@ -15,7 +15,7 @@ baseurl: "/atel" # the subpath of your site, e.g. /blog
 url: "https://yugn27.github.io/atel/"
 permalink: :title/
 full-url: "https://yugn27.github.io/atel" # the base hostname & protocol for your site
-permalink: /404.html
+
 
 # CSS
 sass:
@@ -45,6 +45,7 @@ version: 0.9
 
 change-date-bg: no
 
+permalink: /404.md
 
 # Build settings
 markdown: kramdown
