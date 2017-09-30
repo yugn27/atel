@@ -6,8 +6,62 @@ show-in-menu: yes
 ---
 
     
-    
+<style>
+    @import "compass/css3";
+
+/* 
+  Author: Sravan Kumar
+  Website: http://wittysparks.com
+  License: none (public domain)
+*/
+body{ font:normal 12px/25px Arial, Helvetica, sans-serif}  
+.divform{display:table;border-collapse:collapse}
+.divform .r{display:table-row}
+.divform .c{display:table-cell;padding:5px 0px;vertical-align:middle}
+input[type="text"], select, label{height:30px}
+input[type="text"], select, textarea, label, input[type="submit"]{margin:0 5px}
+input[type="text"], select, textarea{padding:5px;width:96%;border:1px solid #CCC;-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);border-radius:4px}
+input[type="submit"]{margin-top:15px;background-color:#F5F5F5;color:#444444;border:1px solid rgba(0, 0, 0, 0.1);padding:5px;font-weight:bold;box-shadow:0 1px 0 rgba(255, 255, 255, 0.2) inset, 0 1px 2px rgba(0, 0, 0, 0.05);border-radius:4px;background-color:#F5F5F5;background-image:-moz-linear-gradient(top, #ffffff, #e6e6e6);background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#e6e6e6));background-image:-webkit-linear-gradient(top, #ffffff, #e6e6e6);background-image:-o-linear-gradient(top, #ffffff, #e6e6e6);background-image:linear-gradient(to bottom, #ffffff, #e6e6e6);background-repeat:repeat-x}
+input[type="radio"], input[type="checkbox"]{margin:0 0 0 2%;padding:0;vertical-align:middle}
+input[type="text"], select, textarea, .divform, .divform .r, .divform .c, form{box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box}
+
+/* iPads (portrait and landscape) */
+@media only screen and (min-width:480px) and (max-width:1024px){
+body{ font:normal 16px/30px Arial, Helvetica, sans-serif}
+.divform, .divform .r, .divform .c{display:block}
+.divform .r{clear:both}
+.divform .c{width:50%;float:left;padding-left:10px;padding-right:10px}
+.divform .c:nth-child(2n+3){clear:left}
+label, .fheading, input[type="submit"]{margin-left:0;text-indent:0}
+input[type="submit"]{padding-left:20px;padding-right:20px}
+textarea, input[type="text"], select{width:100%;margin:0}
+input[type="radio"], input[type="checkbox"]{margin:0 5px;padding:0;vertical-align:middle}
+.ver2 .c{width:35%}
+.ver2 .c:nth-child(2n+2){width:65%}
+.c.frwd{width:100%;}
+.c.frwd textarea, .c.frwd input[type="text"], .c.frwd select{width:100%}
+.ver2 .frwd.c:nth-child(2n+2){width:100%}
+}
+
+/* Smartphones (portrait and landscape) */
+@media only screen and (max-width:480px){
+body{ font:normal 16px/30px Arial, Helvetica, sans-serif}
+h1{margin:0 0 20px 0}
+label, .fheading, input[type="submit"]{margin:0;text-indent:0}
+.divform, .divform .r, .divform .c{display:block}
+.divform .r{clear:both}
+input[type="text"], select, textarea{width:100%;margin:0}
+input[type="radio"], input[type="checkbox"]{margin:0 2%}
+input[type="submit"]{width:100%;margin-top:20px}
+}
+
+/* Only Safari */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+select{text-indent:5px;line-height:24px}
+}
  
+ </style>
   
  
    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
