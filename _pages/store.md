@@ -66,7 +66,7 @@ select{text-indent:5px;line-height:24px}
 
 
 <div class="container">
-  <h2>Free Dev Kit</h2>
+  <h2>Apply for free Kit</h2>
   <form name="wittysparks" id="formRequest">
       
   
