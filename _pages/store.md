@@ -71,7 +71,7 @@ select{text-indent:5px;line-height:24px}
 
 <div class="container">
   <h2>Free Dev Kit</h2>
-  <form id="formRequest">
+  <form name="wittysparks" id="formRequest">
   <div class="form-group">
       <label for="Name">Name</label>
       <input type="text" class="form-control" id="Name" placeholder="Enter name" name="Name">
