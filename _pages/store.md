@@ -101,7 +101,7 @@ var Name=$('#Name').val();
 var Email=$('#Email').val();
 var Contact=$('#Contact').val();
 $.ajax({
-url:"https://docs.google.com/forms/d/e/1FAIpQLSdNV2A_v_6v27q2x5lfZzQ8zGtEeruZHvn6Pfl9wTelSrV_bQ/formResponse",data:{"entry.675230857":Name,"entry.1965877327":Email,"entry.1149358831":Contact},type:"POST",dataType:"xml",statusCode: {0:function() { window.location.replace("http://yashnayak.tk");},200:function(){window.location.replace("http://yashnayak.tk");}}
+url:"https://docs.google.com/forms/d/e/1FAIpQLSdNV2A_v_6v27q2x5lfZzQ8zGtEeruZHvn6Pfl9wTelSrV_bQ/formResponse",data:{"entry.675230857":Name,"entry.1965877327":Email,"entry.1149358831":Contact},type:"POST",dataType:"xml",statusCode: {0:function() { window.location.replace("https://yugn27.github.io/atel/response/");},200:function(){window.location.replace("https://yugn27.github.io/atel/response/");}}
 });
 }
 </script>
