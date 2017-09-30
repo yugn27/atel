@@ -69,8 +69,13 @@ select{text-indent:5px;line-height:24px}
   <h2>Free Dev Kit</h2>
   <form name="wittysparks" id="formRequest">
       
-      <input type="checkbox" name="vehicle" value="Bike"> I have a bike<br>
-  <input type="checkbox" name="vehicle" value="Car" checked> I have a car<br>
+  <input type="checkbox" name="vehicle" value="Arduino"> Arduino ( with cabel)<br>
+  <input type="checkbox" name="vehicle" value="JumpersWires">Jumpers Wires<br>
+  <input type="checkbox" name="vehicle" value="Resistance"> Resistance Set<br>
+  <input type="checkbox" name="vehicle" value="Led">Resistance Set<br>
+  <input type="checkbox" name="vehicle" value="SensorsKit"> Sensors Kit<br>
+  
+  
   <div class="form-group">
       <label for="Name">Name</label>
       <input type="text" class="form-control" id="Name" placeholder="Enter name" name="Name">
