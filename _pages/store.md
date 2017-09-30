@@ -89,7 +89,7 @@ select{text-indent:5px;line-height:24px}
     
     
     
-    <button type="button" class="btn btn-default"  name="Submit" id="Submit" onclick="postContactToGoogle()" value="Submit">Submit</button>
+    <button type="submit" class="c"  name="Submit" id="Submit" onclick="postContactToGoogle()" value="Submit">Submit</button>
     
     
   
