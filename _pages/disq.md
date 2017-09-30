@@ -7,5 +7,5 @@ show-in-menu: yes
 
     
     
- <iframe src="https://yugn27.github.io/quiz/" style="width: 100%; height: 300px"
+ <iframe src="https://yugn27.github.io/atel/discussion.html" style="width: 100%; height: 300px"
       frameborder="0">
