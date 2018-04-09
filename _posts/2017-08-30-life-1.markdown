@@ -1,23 +1,36 @@
 ---
 layout: post
-title:  "Chapter 1-Basic Electronic"
-description: Chapter 1-Basic Electronic. 
+title:  "How to use a breadboard?"
+description: How to use a breadboard? 
 categories: Electronic
-author: yashn
 ---
 
-# Step 1: Get An Overview Of The Basics
 
-The first step to take, is to get a simple understanding of the basic concepts in electronics for beginners.
 
-Voltage, Current and Resistance
- Current is measured in Amp or A
- Voltage is measured in Volt or V
- Resistance is measured in Ohm or 
-
+# What is a breadboard?
+A breadboard is a rectangular plastic board with a bunch of tiny holes in it. These
+holes let you easily insert electronic components to prototype (meaning to build
+and test an early version of) an electronic circuit
+The connections are not permanent, so it is easy to remove a component if you
+make a mistake, or just start over and do a new project. This makes breadboards
+great for beginners who are new to electronics. You can use breadboards to make
+all sorts of fun electronics projects, from different types of robots or any
+electronics based projects. 
+# Where does the name &quot;breadboard&quot; come from?
+You might be wondering what any of this has to do with bread. The
+term breadboard comes from the early days of electronics, when people would
+literally drive nails or screws into wooden boards on which they cut bread in order
+to connect their circuits. Luckily, since you probably do not want to ruin all your
+cutting boards for the sake of an electronics project, today there are better options.
 
 Here is a nice illustration:
-![]({{site.baseurl}}/images/Ohms-law-cartoon-cropped.jpg)
+![]({{site.baseurl}}/images/ckt01.png)
+
+# How are the holes connected?
+
+Horizontal Rows
+
+
 
 
 # Basic Electricity
