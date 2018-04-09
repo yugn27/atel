@@ -1,0 +1,98 @@
+---
+layout: post
+title:  "IR Sensor"
+description: IR Sensor
+categories: Electronic
+---
+
+
+# IR Sensor
+The IR (Infrared) Obstacle sensor, which as the name suggests detects object or any obstacle coming in the sensors way! 
+
+![]({{site.baseurl}}/images/ckt01.png)
+
+# What is IR Sensor and how it works?
+The principle of an IR sensor working as an Object Detection Sensor can be explained using the following figure. An IR sensor consists of an IR LED and an IR Photodiode; together they are called as Photo – Coupler or Opto – Coupler.
+
+![]({{site.baseurl}}/images/ckt01.png)
+
+When the IR transmitter emits radiation, it reaches the object and some of the radiation reflects back to the IR receiver. Based on the intensity of the reception by the IR receiver, the output of the sensor is defined.
+The positioning and enclosing of the IR transmitter and Receiver is very important. Both the transmitter and the receiver must be placed at a certain angle, so that the detection of an object happens properly. This angle is the directivity of the sensor which is +/- 45 degrees.
+
+Pin Out of Sensor
+![]({{site.baseurl}}/images/ckt01.png)
+VCC – 3.3 to 5V DC Supply.
+Gnd- Ground input.
+Out- Output that goes low when obstacle is in range.
+Power LED- Illuminated when power is applied.
+Obstacle LED- Illuminates when obstacle is detected.
+Distance Adjust- Adjust detection distance. CCW decreases distance. CW increases distance.
+IR Emitter- Infrared Emitter LED.
+IR Receiver- Infrared receiver that receives the signal from IR Emitter.
+
+## Let’s Make
+### Shop from-   http://technoventor.in/
+### Obstacle detection system 
+### Step1: Materials needed:
+Arduino UNO
+IR  Obstacle Sensor
+Type A to B Cable
+Jumpers
+
+### Step2: Connection with Arduino
+
+![]({{site.baseurl}}/images/ckt01.png)
+
+### Step3:  Program the Arduino
+int LED = 13; // Use the onboard Uno LED
+int obstaclePin = 2;  // This is our input pin
+int hasObstacle = HIGH;  // HIGH MEANS NO OBSTACLE
+ 
+void setup() {
+  pinMode(LED, OUTPUT);
+  pinMode(obstaclePin, INPUT);
+  Serial.begin(9600);  
+}
+void loop() {
+  hasObstacle = digitalRead(obstaclePin); //Reads the output of the obstacle sensor from the 7th PIN of the Digital section of the arduino
+  if (hasObstacle == LOW) //LOW means something is ahead, so illuminates the 13th Port connected LED
+  {
+    Serial.println("Stop something is ahead!!");
+    digitalWrite(LED, HIGH);//Illuminates the 13th Port LED
+  }
+  else
+  {
+    Serial.println("Path is clear");
+    digitalWrite(LED, LOW);
+  }
+  delay(200);
+}
+
+
+
+
+
+
+
+### Step4: Check the Result
+![]({{site.baseurl}}/images/ckt01.png)
+
+
+
+
+## Below are the examples of IR sensor. Enjoy making!!
+http://www.instructables.com/id/Simple-IR-proximity-sensor-with-Arduino/
+http://www.instructables.com/id/Use-a-DIY-Proximity-Sensor-to-Automate-Your-Haunte/
+http://www.instructables.com/id/IR-Infrared-Security-Alarm-System/
+ 
+Abbreviation
+
+DC – Direct Current
+GND – Ground 
+O/P- Output
+I/P- Input
+LED- Light Emitting Diode
+VCC-  Supply voltage for electronics circuit.
+LCD- Liquid crystal display
+IC- Integrated circuit
+USB- Universal Serial Bus
