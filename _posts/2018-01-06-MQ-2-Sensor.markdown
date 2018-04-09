@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "MQ-2 Sensor"
+description: MQ-2 Sensor
+categories: Electronic
+---
+
+
+# What is MQ -2 Sensor?
+The MQ series of gas sensors use a small heater inside with an electro-chemical sensor. They are sensitive for a range of gasses and are used indoors at room temperature. The output is an analog signal and can be read with an analog input of the Arduino.
+ 
+![]({{site.baseurl}}/images/ckt01.png)
+ 
+ 
+The MQ-2 Gas Sensor module is useful for gas leakage detecting in home and industry. It can detect LPG, i-butane, propane, methane, alcohol, hydrogen and smoke.
+Some modules have a built-in variable resistor to adjust the sensitivity of the sensor.
+Note: The sensor becomes very hot after a while, don't touch it!
+# Pin configuration
+
+![]({{site.baseurl}}/images/ckt01.png)
+
+Vcc : This pin powers the module, typically the operating voltage is +5V
+Ground : Used to connect the module to system ground
+Digital Out : You can also use this sensor to get digital output from this pin, by setting a threshold value using the potentiometer
+Analog Out : This pin outputs 0-5V analog voltage based on the intensity of the gas
+
+# Let’s Make
+## Shop from- http://technoventor.in/
+## Gas detection system
+### Step1: Things you need
+Arduino uno
+Breadboard
+MQ-2 Gas sensor module
+Jumpers
+Type A to B cable
+### Step2: Wiring
+
+![]({{site.baseurl}}/images/ckt01.png)
+
+Vcc to Arduino 5V pin
+GND to Arduino GND pin
+Output to Arduino Analog A0 pin
+### Step3: Code
+const int gasPin = A0; //GAS sensor output pin to Arduino analog A0 pin
+void setup()
+{
+ Serial.begin(9600); //Initialize serial port - 9600 bps
+}
+void loop()
+{
+Serial.println(analogRead(gasPin));
+delay(1000); // Print value every 1 sec.
+}
+Step4: Observe the Result on Serial monitor.
+ 
+# Below are the examples of MQ series sensor. Enjoy making!!
+ 
+https://www.hackster.io/Terminator/kitchen-gas-detector-b1b953
+ 
+Abbreviation
+
+DC – Direct Current
+GND – Ground 
+O/P- Output
+I/P- Input
+LED- Light Emitting Diode
+VCC-  Supply voltage for electronics circuit.
+LCD- Liquid crystal display
+IC- Integrated circuit
+USB- Universal Serial Bus
