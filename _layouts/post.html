@@ -8,9 +8,7 @@ comments: true
 <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 
    <p class="post-metadata">
-   <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-       <i class="fa fa-calendar" aria-hidden="true"></i> {{ page.date | date: "%b %-d, %Y" }}
-    </time>
+   
     
     {% if page.author %}  &nbsp;&nbsp; 
     <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><i class="fa fa-user" aria-hidden="true"></i> {{ page.author }}</span></span>{% endif %}
