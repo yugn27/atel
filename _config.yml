@@ -9,7 +9,7 @@
 title: Atal Tinkering Chapter
 description: > # this means to ignore newlines until "baseurl:"
 
-Atal Tinkering Chapter.
+ Atal Tinkering Chapter
 
 baseurl: "/atel" # the subpath of your site, e.g. /blog
 url: "https://yugn27.github.io/atel/"
