@@ -55,7 +55,7 @@ include: [_pages] # Includes files inside _pages directory [Do not remove this]
 author:
   name: Atal Tinkering Chapter
   image: ashwat.jpg # The author image will be shown on the header. Place this image in /images/ folder.
-  about: Atal Tinkering Chapter help student to study tools and equipment to understand the concepts of STEM (Science, Technology, Engineering and Math) using there Smartphones on the way. ATL would contain educational and learning ‘do it yourself’ kits and equipment on – science, electronics, robotics, open source microcontroller boards, sensors and 3D printers and computers. Other desirable facilities include meeting rooms and video conferencing facility.
+  about: Atal Tinkering Chapter help student to study  using there Smartphones.
   twitter: yugn27  # https://twitter.com/ is automatically added
   facebook: yugn27 # https://facebook.com/ is automatically added
   email: yugn27@gmail.com # mailto: is automatically added
