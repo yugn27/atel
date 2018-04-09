@@ -9,7 +9,7 @@ comments: true
 
    <p class="post-metadata">
    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-       <i class="fa fa-calendar" aria-hidden="true"></i> {{ page.date  }}
+       <i class="fa fa-calendar" aria-hidden="true"></i> {{ page.date | date: "%b %-d, %Y" }}
     </time>
     
     {% if page.author %}  &nbsp;&nbsp; 
