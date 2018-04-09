@@ -27,61 +27,55 @@ Here is a nice illustration:
 ![]({{site.baseurl}}/images/ckt01.png)
 
 # How are the holes connected?
+## Horizontal Rows
+![]({{site.baseurl}}/images/ckt01.png) 
 
-Horizontal Rows
+You can see that the horizontal rows are connected on the inside.
+![]({{site.baseurl}}/images/ckt01.png)
+When you put your IC chip on board it should hurdle the center divider
 
+## Vertical Columns
+![]({{site.baseurl}}/images/ckt01.png)
+Vertical columns on the side of the breadboard are for power and ground.
 
+These power rails are also isolated to the right and left side of the breadboard. If you have to manage two different power supplies or voltages, they can be isolated by keeping them on either side of the board.
 
+For ease of use many people link left and right side of the board so voltage and ground are handy on both sides of the center.
 
-# Basic Electricity
+![]({{site.baseurl}}/images/ckt01.png)
+Jumpers to make access to +V and G handy
+ 
+# What is a breadboard diagram?
+A breadboard diagram is a computer-generated drawing of a circuit on a breadboard. Unlike a circuit diagram or a schematic (which use symbols to represent electronic components; see the Advanced section to learn more), breadboard diagrams make it easy for beginners to follow instructions to build a circuit because they are designed to look like the "real thing." For example, this diagram  shows a basic circuit with a battery pack, an LED, a resistor, and a pushbutton, which looks very similar to the physical circuit:
 
-![]({{site.baseurl}}/images/bulb-battery-105x300.png)
+![]({{site.baseurl}}/images/ckt01.png)
 
-When you connect a small light bulb to the positive and the negative side of a battery, you will get a closed circuit where electrons can flow between the terminals and make the lamp shine. Inside the wires of this circuits, you will have electrons flowing.
-When I started out in electronics, I misunderstood something. I thought that when a battery got connected, the electrons started from the battery and had to travel all the way through the wire, up to the bulb, before it was lit. But this is not the case.
-A wire already has electrons in it. And when you connect a battery and make a closed circuit, they start to move. It’s like a pipe filled with marbles. When you put a marble in on one side, another comes out on the other side right away. You don’t have to wait. It happens momentarily.
+![]({{site.baseurl}}/images/ckt01.png)
 
+Sometimes,  breadboard diagrams might be accompanied by (or replaced with) written directions that tell you where to put each component on the breadboard. 
 
+# What is a Circuit diagram?
+Circuit diagrams, or schematics, are a way to represent a circuit using symbols for each component. Circuit diagrams, as opposed to breadboard diagrams, are used by professional engineers when designing circuits, and they are much more convenient for more complicated circuits. For example, this circuit diagram shows a basic circuit with a battery, a switch, an LED, and a resistor.
 
-# What Is A Resistor?
+![]({{site.baseurl}}/images/ckt01.png)
 
-![]({{site.baseurl}}/images/resistor-public-domain-modified.jpg)
-
-A resistor is nothing magic. Take a long wire and measure the resistance, and you will realize that resistance is just a normal property of wires (except for superconductors).
-Some resistors are made up of just that. A long wire.
-resistor-public-domain-modified
-
-
-# What Does The Resistor Do To My Circuit?
-
-The resistor is a passive device and doesn’t do anything actively to your circuit.
-It’s actually a pretty boring device. If you add some voltage to it, nothing really happens. Well, maybe it gets warm, but that’s it.
-BUT, by using resistors, you can design your circuit to have the currents and voltages that you want to have in your circuit.
-So the resistor gives the designer control over his circuit!
-
-
-# Learn To Work With Resistors
-
-![]({{site.baseurl}}/images/current-limiting-resistor-with-led.png)
-
-In the beginning of my electronics career I thought it seemed like resistor were just randomly placed around a circuit and I thought that you didn’t really need them.
-
-For example I remember seeing a circuit with a 9V battery, a resistor and an LED. Then I tried using only the battery and the LED, and it still worked!
-But after a few seconds the LED turned really hot. So hot I almost burned my fingers. Then I started to realize that maybe there was something to these resistors.
+However, unlike breadboard diagrams, circuit diagrams only show electrical connections between components. They do not necessarily correspond to the physical layout of the components on a breadboard. 
 
 
-# How to Use Ohms Law
+# Let’s build a circuit
+## Basic Pushbutton LED Tutorial
+## Step 1
+Attach the battery pack to the power and ground rails of the breadboard.
+## Step 2
+Plug the switch into the breadboard. This picture shows it hurdling the center line but the top and bottom pins are connected when the button is pushed rather than the left and right. This position simply leaves us lots of room to route the other wires.
+## Step 3
+Insert the LED with the anode (long leg) towards the top of the board.
+## Step 4
+Insert the resistor into the board with one end in the same horizontal row as the LED’s cathode (short) leg and the other a few rows down. The resistor is not polarized so it does not matter which direction you insert it.
+## Step 5
+Wire up the positive leads using red jumper wires. Then connect from the positive rail of the breadboard to the same horizontal row as the top leg of the switch. Now connect from the row that houses the bottom leg of the switch to the row that houses the anode of the LED.
+## Step 6
+Wire up the ground lead from row that houses the bottom of the resistor to the ground rail of the breadboard. Check your work against the diagram below.
+![]({{site.baseurl}}/images/ckt01.png)
 
-Ohms law was found by Georg Ohm and it goes a little something like this:
-**V = RI**
-
-![]({{site.baseurl}}/images/simple-circuit-1.png)
-
-V is voltage, R is resistance and I is current.
-The law states that a voltage potential equals the current multiplied by the resistance.
-It is used VERY often. It is THE formula in electronics.
-You can switch it around and get R = V/I or I = V/R. As long as you have two of the variables, you can calculate the last.
-
-# Basic circuit
-![]({{site.baseurl}}/images/basic-led-circuit-withbattery.png)
-
+Press the button and the LED should light up.  Congratulations, you've assembled your first breadboard circuit.
