@@ -9,14 +9,14 @@ categories: Electronic
 # What is Pulse Rate sensor and how it works?
 Pulse rate Sensor is a well-designed sensor for arduino. The sensor clips onto a fingertip or earlobe and plugs right into Arduino. It also includes an open-source monitoring app that graphs your pulse in real time.
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Electronic/9/01.jpg)
 
 The Pulse Sensor can be connected to arduino, or plugged into a breadboard. The front of the sensor is the pretty side with the Heart logo. This is the side that makes contact with the skin. On the front you see a small round hole, which is where the LED shines through from the back, and there is also a little square just under the LED. The square is an ambient light sensor, exactly like the one used in cell phones, tablets, and laptops, to adjust the screen brightness in different light conditions. The LED shines light into the fingertip or earlobe, or other capillary tissue, and sensor reads the light that bounces back. The back of the sensor is where the rest of the parts are mounted.
 
 
 How  to use this Sensor?
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Electronic/9/02.jpg)
 
 
 The Pulse Rate Sensor should be connected to Uno as follows:
@@ -43,7 +43,7 @@ Heart beat sensor as the name suggest is used in medical applications.
 7. Breadboard
 
 ### Step 2: Pin out Details
- ![]({{site.baseurl}}/images/ckt01.png)
+ ![]({{site.baseurl}}/images/Electronic/9/03.PNG)
  
 you can see the s, + and - on pulse sensor's back view as shown in the picture above.
 S : signal, connected to any of your microcontroller's digital pin.
@@ -51,7 +51,7 @@ S : signal, connected to any of your microcontroller's digital pin.
 - : ground
 ### Step 3: Connections with arduino:
  
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Electronic/9/04.jpg)
 
 1. Connect Pulse Sensor to Arduino Uno Board as following:
 +  to  +5V
