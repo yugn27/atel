@@ -1,20 +1,14 @@
----
+#---
 layout: post
 title:  "Sound Sensor"
 description: Sound Sensor
 categories: Electronic
 ---
 
-
-# What is Pulse Rate sensor and how it works?
-Pulse rate Sensor is a well-designed sensor for arduino. The sensor clips onto a fingertip or earlobe and plugs right into Arduino. It also includes an open-source monitoring app that graphs your pulse in real time.
-
-
-
-What is Sound Sensor?
+# What is Sound Sensor?
 The sound sensor module provides an easy way to detect sound and is generally used for detecting sound intensity. This module can be used for security, switch, and monitoring applications. Its accuracy can be easily adjusted for the convenience of usage.
 
-![]({{site.baseurl}}/images/Electronic/9/01.jpg)
+![]({{site.baseurl}}/images/Electronic/11/01.jpg)
 
 It uses a microphone which supplies the input to an amplifier, peak detector and buffer. When the sensor detects a sound, it processes an output signal voltage 
 which is sent to a microcontroller then performs necessary processing.
@@ -85,7 +79,9 @@ digitalWrite (Led, HIGH);
 digitalWrite (Led, LOW);
   }
 }
-### Step 4: Observe the result.
+
+### Step 4: Observe the result
+
 Below are the examples of Sound sensor. Enjoy making!!
 https://www.hackster.io/dandt_matt/sound-wave-starting-gun-0b774e
 http://www.instructables.com/id/How-to-turn-ON-AC-light-and-Fan-by-clap-using-Ardu/
