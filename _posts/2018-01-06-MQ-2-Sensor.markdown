@@ -9,7 +9,7 @@ categories: Electronic
 # What is MQ -2 Sensor?
 The MQ series of gas sensors use a small heater inside with an electro-chemical sensor. They are sensitive for a range of gasses and are used indoors at room temperature. The output is an analog signal and can be read with an analog input of the Arduino.
  
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Electronic/7/01.jpg)
  
  
 The MQ-2 Gas Sensor module is useful for gas leakage detecting in home and industry. It can detect LPG, i-butane, propane, methane, alcohol, hydrogen and smoke.
@@ -17,7 +17,7 @@ Some modules have a built-in variable resistor to adjust the sensitivity of the 
 Note: The sensor becomes very hot after a while, don't touch it!
 # Pin configuration
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Electronic/7/02.jpg)
 
 Vcc : This pin powers the module, typically the operating voltage is +5V
 Ground : Used to connect the module to system ground
@@ -35,7 +35,7 @@ Jumpers
 Type A to B cable
 ### Step2: Wiring
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Electronic/7/03.png)
 
 Vcc to Arduino 5V pin
 GND to Arduino GND pin
