@@ -18,7 +18,8 @@ However, for most touch-sensitive applications like "has this been squeezed or p
 Even though there various types of force sensors, the force sensing resistors are having several advantages such as thin size (less than 0.5mm), very low cost and also good shock resistance. The only disadvantage of FSR sensors is low precision; there will be approximately 10% or more difference in measurement results.
 
 ![]({{site.baseurl}}/images/Electronic/4/02.jpg)
- ### Force Sensor Resistor
+
+### Force Sensor Resistor
 
 
 # How does FSR Sensor Works?
