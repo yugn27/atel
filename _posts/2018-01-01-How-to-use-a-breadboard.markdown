@@ -48,7 +48,7 @@ Jumpers to make access to +V and G handy
 # What is a breadboard diagram?
 A breadboard diagram is a computer-generated drawing of a circuit on a breadboard. Unlike a circuit diagram or a schematic (which use symbols to represent electronic components; see the Advanced section to learn more), breadboard diagrams make it easy for beginners to follow instructions to build a circuit because they are designed to look like the "real thing." For example, this diagram  shows a basic circuit with a battery pack, an LED, a resistor, and a pushbutton, which looks very similar to the physical circuit:
 
-![]({{site.baseurl}}/images/Electronic/2/06.png)
+![]({{site.baseurl}}/images/Electronic/2/06.PNG)
 
 ![]({{site.baseurl}}/images/Electronic/2/07.png)
 
