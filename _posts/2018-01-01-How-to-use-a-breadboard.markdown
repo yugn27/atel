@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title:  "How to use a breadboard?"
@@ -31,7 +32,9 @@ Here is a nice illustration:
 ![]({{site.baseurl}}/images/Electronic/2/02.png) 
 
 You can see that the horizontal rows are connected on the inside.
+
 ![]({{site.baseurl}}/images/Electronic/2/03.png)
+
 When you put your IC chip on board it should hurdle the center divider
 
 ## Vertical Columns
