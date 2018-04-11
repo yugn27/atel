@@ -6,7 +6,7 @@ categories: Electronic
 ---
 
 
-What is a Sound Playback Module?
+# What is a Sound Playback Module?
  
 Voice Record Module is base on ISD1820, which a multiple-message record/playback device. It can offer true single-chip voice recording, no-volatile storage, and playback capability for 8 to 20 seconds. The sample is 3.2k and the total 20s for the Recorder.
  
@@ -14,7 +14,7 @@ Voice Record Module is base on ISD1820, which a multiple-message record/playback
 
 This module use is very easy which you could direct control by push button on board or by Microcontroller such as Arduino, etc. From these, you can easy control record, playback and repeat and so on.
  
-Pin description
+# Pin description
 
 ![]({{site.baseurl}}/images/Electronic/10/02.jpg)
  
@@ -29,11 +29,11 @@ Lead Out IO – VCC LED NC FT GND / VCC REC PLAYE PLAYL GND
 P2 – default short connection ROSC to 100kΩ resistance, that’s means record duration is 10s
 PLAYL – Playback, Level-activated, when this input pin level transits for LOW to HIGH, a playback cycle is initiated.
 
-Control it with the Arduino
+# Control it with the Arduino
  
-Shop from- http://technoventor.in/
+## Shop from- http://technoventor.in/
  
-In the following example we’ll use an IR sensor of this type:
+### In the following example we’ll use an IR sensor of this type:
  
 ![]({{site.baseurl}}/images/Electronic/10/03.jpg)
  
