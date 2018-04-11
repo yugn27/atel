@@ -10,14 +10,14 @@ categories: Electronic
 A temperature sensor is a device which is designed specifically to measure the hotness or coldness of an object. LM35 is a precision IC temperature sensor with its output proportional to the temperature (in °C).
 The operating temperature range is from -55°C to 150°C.
 
-![]({{site.baseurl}}/images/Electronic/9/01.jpg)
+![]({{site.baseurl}}/images/Electronic/12/01.jpg)
 
 LM35 Temperature Sensor which is a semiconductor based sensor. LM35 is an integrated analog temperature sensor whose electrical output is proportional to Degree Centigrade. LM35 Sensor does not require any external calibration or trimming to provide typical accuracies. The LM35’s low output impedance, linear output, and precise inherent calibration make interfacing to readout or control circuitry especially easy.
 
 
 # Pin Description
 
-![]({{site.baseurl}}/images/Electronic/9/01.jpg)
+![]({{site.baseurl}}/images/Electronic/12/02.jpg)
 
 
 # Let’s make
@@ -34,7 +34,7 @@ USB Cord
 LM35 temperature sensor
 ### Step2: Wiring
 
-![]({{site.baseurl}}/images/Electronic/9/01.jpg)
+![]({{site.baseurl}}/images/Electronic/12/03.jpg)
 
 
 ### Step3: Code
