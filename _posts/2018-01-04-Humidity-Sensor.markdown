@@ -8,7 +8,7 @@ categories: Electronic
 # What is a Humidity Sensor?
 A Humidity sensor (or hygrometer) senses, measures and reports the relative humidity in the air. It therefore measures both moisture and air temperature.
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Electronic/5/01.jpg)
 
 # How does the Sensor works?
 The sensor is composed of two metal plates and contains a non-conductive polymer film between them. This film collects moisture from the air, which causes the voltage between the two plates to change. These voltage changes are converted into digital readings showing the level of moisture in the air.
@@ -18,7 +18,7 @@ The sensor is composed of two metal plates and contains a non-conductive polymer
 
 
 ### Pin Description
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Electronic/5/02.jpg)
 VCC    3.3V to 5V
 Data    Outputs both Temperature and Humidity through serial data
 GND    Connected to the ground of the circuit 
@@ -41,7 +41,7 @@ Humidity sensors can be used as a monitoring and preventive measure in homes for
 
 ### Step2: Wiring
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Electronic/5/03.png)
 
 ### Step3: Code
 We will be using a Library that is available for this sensor. Once you have the library, just go ahead and extract it to the Library folder inside your Arduino IDE software folder.
