@@ -9,18 +9,18 @@ categories: Electronic
 # IR Sensor
 The IR (Infrared) Obstacle sensor, which as the name suggests detects object or any obstacle coming in the sensors way! 
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Electronic/6/01.jpg)
 
 # What is IR Sensor and how it works?
 The principle of an IR sensor working as an Object Detection Sensor can be explained using the following figure. An IR sensor consists of an IR LED and an IR Photodiode; together they are called as Photo – Coupler or Opto – Coupler.
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Electronic/6/02.png)
 
 When the IR transmitter emits radiation, it reaches the object and some of the radiation reflects back to the IR receiver. Based on the intensity of the reception by the IR receiver, the output of the sensor is defined.
 The positioning and enclosing of the IR transmitter and Receiver is very important. Both the transmitter and the receiver must be placed at a certain angle, so that the detection of an object happens properly. This angle is the directivity of the sensor which is +/- 45 degrees.
 
 Pin Out of Sensor
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Electronic/6/03.jpg)
 VCC – 3.3 to 5V DC Supply.
 Gnd- Ground input.
 Out- Output that goes low when obstacle is in range.
@@ -41,7 +41,7 @@ Jumpers
 
 ### Step2: Connection with Arduino
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Electronic/6/04.png)
 
 ### Step3:  Program the Arduino
 int LED = 13; // Use the onboard Uno LED
@@ -75,7 +75,7 @@ void loop() {
 
 
 ### Step4: Check the Result
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Electronic/6/irresult.png)
 
 
 
