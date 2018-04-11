@@ -15,7 +15,7 @@ which is sent to a microcontroller then performs necessary processing.
 
 # Pin Description
 
-![]({{site.baseurl}}/images/Electronic/9/02.png)
+![]({{site.baseurl}}/images/Electronic/11/02.png)
 
 Parameter
 Value
