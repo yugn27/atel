@@ -10,13 +10,13 @@ What is a Sound Playback Module?
  
 Voice Record Module is base on ISD1820, which a multiple-message record/playback device. It can offer true single-chip voice recording, no-volatile storage, and playback capability for 8 to 20 seconds. The sample is 3.2k and the total 20s for the Recorder.
  
-![]({{site.baseurl}}/images/Electronic/9/01.jpg)
+![]({{site.baseurl}}/images/Electronic/10/01.jpg)
 
 This module use is very easy which you could direct control by push button on board or by Microcontroller such as Arduino, etc. From these, you can easy control record, playback and repeat and so on.
  
 Pin description
 
-![]({{site.baseurl}}/images/Electronic/9/01.jpg)
+![]({{site.baseurl}}/images/Electronic/10/02.jpg)
  
 PLAYE – Playback, Edge-activated: When a HIGH-going transition is detected on continues until an End-of-Message (EOM) marker is encountered or the end of the memory space is reached.
 REC – The REC input is an active-HIGH record signal. The device records whenever REC is HIGH. This pin must remain HIGH for the duration of the recording. REC takes precedence over either playback (PLAYL or PLAYE) signal.
@@ -35,13 +35,13 @@ Shop from- http://technoventor.in/
  
 In the following example we’ll use an IR sensor of this type:
  
-![]({{site.baseurl}}/images/Electronic/9/01.jpg)
+![]({{site.baseurl}}/images/Electronic/10/03.jpg)
  
 VDC - 3.3V or 5V from Arduino
 GND - GND of Arduino
 OUT - Pin 2 of the arduino
 
-![]({{site.baseurl}}/images/Electronic/9/01.jpg)
+![]({{site.baseurl}}/images/Electronic/10/04.png)
  
 When it detects a passage the Arduino will change the state of the pin 7 which will give the order to play the recorded sound. We will use this function (play the sound) in the immediate because it is the most interesting.
  
@@ -75,9 +75,9 @@ The arduino code:
                 irState = LOW;
              }
                 }
-                } 
+                }
+             
 Abbreviation
-
 DC – Direct Current
 GND – Ground 
 O/P- Output
