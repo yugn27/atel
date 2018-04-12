@@ -3,7 +3,6 @@ layout: post
 title: Documentation
 description: Documentation will have all the features, so that only you can read it.
 categories: general
-author: yashnayak
 ---
 
 ## Features
