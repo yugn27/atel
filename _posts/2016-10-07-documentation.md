@@ -7,8 +7,6 @@ categories: general
 
 ## Features
 
-* Do not remove this line (it will not be displayed) 
-{:toc}
 
 ### Smartphone App 
 help you to study from phone
