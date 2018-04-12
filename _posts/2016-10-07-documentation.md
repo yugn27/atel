@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Documentation
-description: Documentation will have all the features, so that only you can read it.
+description: About all the features
 categories: general
 ---
 
