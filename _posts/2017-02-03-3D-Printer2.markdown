@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "3D Printer"
+description: 3D Printer
+categories: design
+---
+
+
+
+# What is 3D printer?
+3D Printing is an additive manufacturing process that creates a physical object from a digital design. There are different 3D printing technologies and materials you can print with, but all are based on the same principle: a digital model is turned into a solid three-dimensional physical object by adding material layer by layer.
+
+# How 3D printer works?
+Every 3D print starts as a digital 3D design file – like a blueprint – for a physical object. Trying to print without a design file is like trying to print a document on a sheet of paper without a text file. This design file is sliced into thin layers which is then sent to the 3D printer.
+
+https://www.3dhubs.com/sites/all/themes/hubs3d/videos/teleport/teleport-animation.webm
+
+From here on the printing process varies by technology, starting from desktop printers that melt a plastic material and lay it down onto a print platform to large industrial machines that use a laser to selectively melt metal powder at high temperatures. The printing can take hours to complete depending on the size, and the printed objects are often post-processed to reach the desired finish.
+Available materials also vary by printer type, ranging from plastics to rubber, sandstone, metals and alloys - with more and more materials appearing on the market every year.
+
+
+# Technology used:
+### Fused Deposition Modeling (FDM)
+The FDM printing process starts with a string of solid material called the filament. This line of filament is guided from a reel attached to the 3D printer to a heated nozzle inside of the 3D printer that melts the material. Once in a melted state, the material can be extruded on a specific and predetermined path created by the software on the computer. As the material is extruded as a layer of the object on this path, it instantly cools down and solidifies – providing the foundation for the next layer of material until the entire object is manufactured.
+
+![]({{site.baseurl}}/images/design/2/01.jpg)
+
+
+As the cheapest 3D printing technology on the market, FDM also offers a wide variety of plastic-based materials in a rainbow of colors including ABS, PLA, nylon and even more exotic material blends including carbon, bronze or wood.
+FDM is a great choice for quick and low-cost prototyping and can be used for a wide variety of applications. More recent innovations in FDM 3D printing include the ability to manufacture functional end products with embedded electronics and mechanical parts such as drones. Due to some design and material limitations, FDM 3D printing is not recommended for more intricate designs.
+
+# How can you get 3D printable designs?
+Let’s start with the basics. To 3D print something, first you need a 3D model – the mathematical representation of any three-dimensional surface of an object. 3D models are created using computer-aided design (CAD) tools, various specialized software tools that simplify the design process on computers, tablets or even smartphones.
+
+
