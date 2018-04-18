@@ -19,6 +19,7 @@ Open build wire cable
 
 
 ### Step 2: CODE
+
 void setup()
 {
     Serial.begin(9600);
@@ -59,7 +60,6 @@ void loop()
     {
         digitalWrite(3, LOW);
     }
- 
     Serial.println(analogRead(A0));
     delay(20);
 }
