@@ -34,7 +34,7 @@ Wire up the positive leads using red jumper wires. Then connect from the positiv
 Wire up the ground lead from row that houses the bottom of the resistor to the ground rail of the breadboard. Check your work against the diagram below.
  
 ### STEP 7:
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/BB/BB1.png)
 
 Press the button and the LED should light up.  Congratulations, you've assembled your first breadboard circuit.
 
@@ -51,18 +51,18 @@ Press the button and the LED should light up.  Congratulations, you've assembled
 
 ### STEP 2 : What is LDR?
 LDR is a photoresistor is a light-controlled variable resistor.The resistance of a photoresistor decreases with increasing incident light intensity,in other words, it exhibits photoconductivity.A photoresistor can be applied in light-sensitive detector circuits, and light- and dark-activated switching circuits.
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/BB/BB2.png)
  
 ### STEP 3: BC 547 TRANSISTOR
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/BB/BB3.png)
  
 
 ### STEP 4: CIRCUIT DIAGRAM
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/BB/BB4.png)
 
 
 ### STEP 3: IMPLEMENTED
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/BB/BB5.png)
 
 
 
