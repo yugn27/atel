@@ -25,11 +25,11 @@ The module sends eight 40 KHz signals automatically, and then detects whether pu
 If the signal is received, then it is through high level. The time of high duration is the time gap between sending and receiving the signal.
 #### Distance= (Time x Speed of Sound in Air (340 m/s))/2
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/UNO/01.png)
 
  
 ### STEP 2 :CIRCUIT DIAGRAM AND EXPLANATION
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/UNO/02.png)
 
 The circuit diagram for arduino and ultrasonic sensor is shown above to measure the distance. In circuit connections Ultrasonic sensor module’s “trigger” and “echo” pins are directly connected to pin 18(A4) and 19(A5) of arduino. A 16x2 LCD is connected with arduino in 4-bit mode. Control pin RS, RW and En are directly connected to arduino pin 2, GND and 3. And data pin D4-D7 is connected to 4, 5, 6 and 7 of arduino.
  
@@ -88,7 +88,7 @@ voidloop()
 
 ### STEP 4 :
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/UNO/03.png)
 
  
  
@@ -107,15 +107,15 @@ Breadboard
  
  
 ### STEP 2: CIRCUIT DIAGRAM
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/UNO/04.png)
  
  
 ### STEP 3: Controlling Relay using LDR with Arduino
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/UNO/05.png)
   
  
 Instead of controlling an LED according to the brightness and darkness, we can control our home lights or any electrical equipment. All we have to do is connect a relay module and set the parameter to turn ON and OFF the any AC appliance according to the intensity of the light. If the value falls below 700, which means it Dark, then the relay operates and the lights turns ON. If the value is greater than 700, which means its day or bright, then the relay will not operate and the lights remain OFF. Learn more about relay here and how to connect an AC appliance to relay.
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/UNO/06.png)
  
  
 ### STEP 4 :
