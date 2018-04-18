@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "GLOW LED USING PUSHBUTTON"
+title:  "Projects on breadboard"
 description:  Projects on breadboard
 categories: project
 ---
 
 
 
-                                          Projects on breadboard
+Projects on breadboard
 # GLOW LED USING PUSHBUTTON
 
 ### STEP 1: REQUIRED COMPONENTS
@@ -64,12 +64,20 @@ LDR is a photoresistor is a light-controlled variable resistor.The resistance of
 
 
 1.http://www.buildcircuit.com/dark-sensor-using-transistor-phototransistor-and-photodiode/
+
 2.https://www.electronicshub.org/simple-clap-switch-circuit/
+
 3.http://www.instructables.com/id/How-to-Make-a-Touch-Sensor-Using-555-Timer-IC-on-B/
+
 4.https://circuitdigest.com/electronic-circuits/doorbell-circuit
+
 5.https://circuitdigest.com/electronic-circuits/simple-metal-detector-circuit
+
 6.https://circuitdigest.com/electronic-circuits/mosquito-repellent-circuit
+
 7.https://makezine.com/projects/light2sound-ldr-synth/
+
 8.http://www.buildcircuit.com/darklight-sensor-using-transistor/
+
 9.https://www.build-electronic-circuits.com/portable-usb-charger-circuit/
 
