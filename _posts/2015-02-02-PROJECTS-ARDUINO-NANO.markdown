@@ -15,7 +15,7 @@ Breadboard
 LED
 Open build wire cable
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/NANO/nano1.png)
 
 
 ### Step 2: CODE
@@ -69,7 +69,7 @@ void loop()
 
 ### Step 3: CIRCUIT DIAGRAM
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/NANO/nano2.png)
 
 
 
