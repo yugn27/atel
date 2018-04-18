@@ -30,7 +30,7 @@ sudo apt-get update
 sudo apt-get upgrade
 sudo reboot
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/RPI/01.png)
  
 ### With this done, the next thing is for us to install the webIOPi framework.
 Make sure you are in home directory using;
@@ -60,7 +60,7 @@ Connect your circuit as shown in the fritzing circuit above. You should note tha
 With our components connected, fire up your server, from a webpage, go to the IP of your Raspberry Pi and indicate the port as described earlier, login with your username and password, and you should see a webpage that looks exactly like the image below.
 Now you can easily control four AC Home appliaces from anywhere wirelessly,  just by clicking on the buttons. This will work from Mobilephone, tablet etc. and you can add more buttons and relays to control more devices
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/RPI/02.png)
 
 
 
@@ -77,28 +77,28 @@ L293D Motor Driver
 Chaises (You can also build your own using cardboards)
 Power bank (Any available power source)
  
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/RPI/03.png)
 
 These two IR sensors will be placed one on either side of the line. 
 
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/RPI/04.png)
 
 
 
 If left sensor comes on black line then the PI instructs the robot to turn left by rotating the right wheel alone.
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/RPI/05.png)
 
 If right sensor comes on black line then the PI instructs the robot to turn right by rotating the left wheel alone.
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/RPI/06.png)
 
 
 
 If both sensors comes on black line, robot stops.
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/RPI/07.png)
 
 This way the Robot will be able to follow the line without getting outside the track. Now let us see how the circuit and Code looks like.
  
@@ -140,7 +140,7 @@ while 1:
         
 
 
-![]({{site.baseurl}}/images/ckt01.png)
+![]({{site.baseurl}}/images/Project/RPI/08.png)
 
 
 
