@@ -10,8 +10,8 @@ active: active
 We would like to hear from Students. 
 
  
-``+918888835620``<br> 
-``yugn27@gmail.com`` 
+``+918828294964``<br> 
+``technoventorofficial@gmail.com`` 
 
 **Happy to Assist you**. 
 
