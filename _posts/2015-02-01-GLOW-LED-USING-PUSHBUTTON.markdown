@@ -7,15 +7,19 @@ categories: project
 
 
 
-Projects on breadboard
 # GLOW LED USING PUSHBUTTON
 
 ### STEP 1: REQUIRED COMPONENTS
 Push button switch
+
 LED
+
 220 Ohm Resistor
+
 4 AA or AAA battery pack
+
 Breadboard
+
 Jumper wires (22 gauge)
 
 ### Step 2:
