@@ -63,7 +63,7 @@ Type A to B cable
 
 
 
- ### Step2: Connections with Arduino
+### Step2: Connections with Arduino
 
 ![]({{site.baseurl}}/images/Electronic/15/05.jpg)
 
