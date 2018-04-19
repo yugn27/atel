@@ -20,14 +20,14 @@ Ultrasonic sensors, whilst fancy and high-tech are fairly simple devices. They e
 The HC-SR04 is a low-cost sensor which has a range of  2cm-500cm and a resolution of  0.3cm. 
 
 
-![]({{site.baseurl}}/images/Electronic/15/02.jpg)
+![]({{site.baseurl}}/images/Electronic/15/02.png)
 
 
 ### How will you use this Sensor?
 
 The HC-SR04 Ultrasonic Module has 4 pins, Ground, VCC, Trig and Echo. The Ground and the VCC pins of the module needs to be connected to the Ground and the 5 volts pins on the Arduino Board respectively and the Trig and Echo pins to any Digital I/O pin on the Arduino Board.
 
-![]({{site.baseurl}}/images/Electronic/15/03.png)
+![]({{site.baseurl}}/images/Electronic/15/02.jpg)
 
 
 VCC – We have to connect this pin to 5V of Arduino
