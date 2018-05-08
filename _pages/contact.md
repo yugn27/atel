@@ -11,7 +11,7 @@ We would like to hear from Students.
 
  
 ``+918828294964``<br> 
-``technoventorofficial@gmail.com`` 
+``director.technoventor@gmail.com`` 
 
 **Happy to Assist you**. 
 
