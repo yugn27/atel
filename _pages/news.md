@@ -7,9 +7,7 @@ comments: true
 active: active
 ---
 
-<a href="https://mirror.hmc.edu/ctan/macros/latex/contrib/jmlr/sample-books/jmlrbook-sample.pdf" download>
-	<button>Download</button>
-</a>
+<embed src="https://mirror.hmc.edu/ctan/macros/latex/contrib/jmlr/sample-books/jmlrbook-sample.pdf" width="100%" height="800" type='application/pdf'>
 
 *#1 Preparing India’s youth for a digital world*
  
