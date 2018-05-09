@@ -7,6 +7,10 @@ comments: true
 active: active
 ---
 
+<a href="https://mirror.hmc.edu/ctan/macros/latex/contrib/jmlr/sample-books/jmlrbook-sample.pdf" download>
+	<button>Download</button>
+</a>
+
 *#1 Preparing India’s youth for a digital world*
  
 The Atal Innovation Mission (AIM) is Narendra Modi government’s flagship initiative to promote a culture of innovation and entrepreneurship in the country. Its objective is to develop new programmes and policies for nurturing innovation in different sectors of the economy, provide platform and collaboration opportunities for different stakeholders and create an umbrella structure to oversee innovation ecosystem of the country.
