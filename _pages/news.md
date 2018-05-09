@@ -9,6 +9,12 @@ active: active
 
 <embed src="https://www.alejandrodelasota.org/wp-content/uploads/2013/03/demoform1.pdf" width="100%" height="800" type='application/pdf'>
 
+
+<iframe width="100%" height="100%" src="/pdf/sample-3pp.pdf#page=2">
+This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/sample-3pp.pdf">Download PDF</a>
+</iframe>
+
+
 *#1 Preparing India’s youth for a digital world*
  
 The Atal Innovation Mission (AIM) is Narendra Modi government’s flagship initiative to promote a culture of innovation and entrepreneurship in the country. Its objective is to develop new programmes and policies for nurturing innovation in different sectors of the economy, provide platform and collaboration opportunities for different stakeholders and create an umbrella structure to oversee innovation ecosystem of the country.
