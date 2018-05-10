@@ -19,3 +19,15 @@ active: active
 
 
 
+
+
+
+*Rich Dad Poor Dad*
+ 
+
+![]({{site.baseurl}}/images/ebooks/images/richdadpoordad.jpg)
+[Download](https://s3.amazonaws.com/rd-downloads-01/Rich-Dad-Poor-Dad-eBook.pdf){: .btn}
+
+
+
+
