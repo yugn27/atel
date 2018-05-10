@@ -15,5 +15,6 @@ active: active
 
 ![]({{site.baseurl}}/images/ebooks/images/3dprintbook.png)
 
-<img src="/images/ebooks/images/3dprintbook.png"  height="42" width="42"> 
+
+
 
