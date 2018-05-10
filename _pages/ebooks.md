@@ -12,11 +12,10 @@ active: active
 
 *3D Printing by Cameron Coward*
  
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-<img src="images/ebooks/images/3dprintbook.png" alt="Smiley face" height="42" width="42"> 
+![]({{site.baseurl}}/images/ebooks/images/3dprintbook.png)
+
+<img src="/images/ebooks/images/3dprintbook.png" alt="Smiley face" height="42" width="42"> 
 <div class="container">
  
   <a href="http://1.droppdf.com/files/bqKs0/idiot-s-guides-3d-printing-by-cameron-coward-2015.pdf" class="btn btn-info" role="button">Download</a>
