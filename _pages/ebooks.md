@@ -14,7 +14,7 @@ active: active
  
 
 ![]({{site.baseurl}}/images/ebooks/images/3dprintbook.png)
-[Download](http://www.google.com){: .btn}
+[Download](http://1.droppdf.com/files/bqKs0/idiot-s-guides-3d-printing-by-cameron-coward-2015.pdf){: .btn}
 
 
 
