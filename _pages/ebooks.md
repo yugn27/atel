@@ -2,9 +2,8 @@
 layout: page
 title: E-Books
 permalink: /ebooks/
-show-in-menu: yes
+show-in-menu: no
 comments: true
-active: active
 ---
 
 
