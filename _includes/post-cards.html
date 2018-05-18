@@ -1,20 +1,12 @@
-
 {% if site.change-date-bg %}
 <div class="post-box">
-  {% if post.image %}
-                    <div class="cover">
-                        {% include new-post-tag.html date=post.date %}
-                        <a href="{{ post.url | prepend: site.baseurl }}" {%if isnewpost %}class="new-post"{% endif %}>
-                            <img src="assets/img/placeholder.png" data-url="{{ post.image }}" class="preload">
-                        </a>
-                    </div>
-                {% endif %}
 {% if post.categories %}
 <div class="ribbon"><span>{{post.categories | first}}</span></div>
 {% endif %}
 <div class="post-meta" style="background: {{site.color-1}};background: -webkit-linear-gradient(to top, {{site.color-1}} , {{site.color-2}});background: linear-gradient(to top, {{site.color-1}} , {{site.color-2}});"><h1 class="date">{{ post.date | date: "%-d" }}</h1>
 </div>
 <div class="post-title-box">
+<img src="images/Electronic/10/01.jpg" data-url="{{ post.image }}" class="preload">  
 <p class="post-link">{{ post.title | truncate: 40 }}</p>
 <p class="post-excerpt">{{ post.description | strip_html | truncate: 120 }}</p>
 </div>
@@ -25,22 +17,16 @@
 
 
 <div class="post-box">
-  {% if post.image %}
-                    <div class="cover">
-                        {% include new-post-tag.html date=post.date %}
-                        <a href="{{ post.url | prepend: site.baseurl }}" {%if isnewpost %}class="new-post"{% endif %}>
-                            <img src="assets/img/placeholder.png" data-url="{{ post.image }}" class="preload">
-                        </a>
-                    </div>
-                {% endif %}
 {% if post.categories %}
 <div class="ribbon"><span>{{post.categories | first}}</span></div>
 {% endif %}
 <div class="post-meta"><h1 class="date">{{ post.date | date: "%-d" }}</h1>
 <span></span></div>
 <div class="post-title-box">
+<img src="images/Electronic/10/01.jpg" data-url="{{ post.image }}" class="preload">                       
 <p class="post-link">{{ post.title | truncate: 40 }}</p>
 <p class="post-excerpt">{{ post.description | strip_html | truncate: 120 }}</p>
+
 </div>
 </div>
 {% endif %}
