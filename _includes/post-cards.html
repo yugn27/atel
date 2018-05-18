@@ -1,6 +1,14 @@
 
 {% if site.change-date-bg %}
 <div class="post-box">
+  {% if post.image %}
+                    <div class="cover">
+                        {% include new-post-tag.html date=post.date %}
+                        <a href="{{ post.url | prepend: site.baseurl }}" {%if isnewpost %}class="new-post"{% endif %}>
+                            <img src="assets/img/placeholder.png" data-url="{{ post.image }}" class="preload">
+                        </a>
+                    </div>
+                {% endif %}
 {% if post.categories %}
 <div class="ribbon"><span>{{post.categories | first}}</span></div>
 {% endif %}
@@ -17,6 +25,14 @@
 
 
 <div class="post-box">
+  {% if post.image %}
+                    <div class="cover">
+                        {% include new-post-tag.html date=post.date %}
+                        <a href="{{ post.url | prepend: site.baseurl }}" {%if isnewpost %}class="new-post"{% endif %}>
+                            <img src="assets/img/placeholder.png" data-url="{{ post.image }}" class="preload">
+                        </a>
+                    </div>
+                {% endif %}
 {% if post.categories %}
 <div class="ribbon"><span>{{post.categories | first}}</span></div>
 {% endif %}
