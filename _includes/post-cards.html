@@ -6,7 +6,7 @@
 <div class="post-meta" style="background: {{site.color-1}};background: -webkit-linear-gradient(to top, {{site.color-1}} , {{site.color-2}});background: linear-gradient(to top, {{site.color-1}} , {{site.color-2}});"><h1 class="date">{{ post.date | date: "%-d" }}</h1>
 </div>
 <div class="post-title-box">
-<img src="https://yugn27.github.io/atel/images/Electronic/10/01.jpg" data-url="{{ post.image }}" class="preload">  
+<img src="{{ post.image }}" data-url="{{ post.image }}" class="preload">  
 <p class="post-link">{{ post.title | truncate: 40 }}</p>
 <p class="post-excerpt">{{ post.description | strip_html | truncate: 120 }}</p>
 </div>
@@ -23,7 +23,7 @@
 <div class="post-meta"><h1 class="date">{{ post.date | date: "%-d" }}</h1>
 <span></span></div>
 <div class="post-title-box">
-<img src="https://yugn27.github.io/atel/images/Electronic/10/01.jpg" data-url="{{ post.image }}" class="preload">                       
+<img src="{{ post.image }}" data-url="{{ post.image }}" class="preload">                       
 <p class="post-link">{{ post.title | truncate: 40 }}</p>
 <p class="post-excerpt">{{ post.description | strip_html | truncate: 120 }}</p>
 
