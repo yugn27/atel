@@ -2,6 +2,7 @@
 layout: post
 title:  "Applications-3D Printing"
 description: Applications-3D Printing
+image: 'https://yugn27.github.io/atel/images/design/3dprinterpost.jpg'
 categories: design
 ---
 
