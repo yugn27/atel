@@ -2,6 +2,7 @@
 layout: post
 title:  "Projects on breadboard"
 description:  Projects on breadboard
+image: 'https://yugn27.github.io/atel/images/design/3dprinterpost.jpg'
 categories: project
 ---
 
