@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3D Printer ![]({{site.baseurl}}/images/design/2/01.jpg)"
+title:  "3D Printer https://yugn27.github.io/atel/images/design/2/01.jpg"
 description: 3D Printer ![]({{site.baseurl}}/images/design/2/01.jpg)
 categories: design
 ---
