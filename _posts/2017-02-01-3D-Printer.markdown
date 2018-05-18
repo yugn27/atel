@@ -2,7 +2,7 @@
 layout: post
 title:  "3D Printer"
 description: 3D Printer 
-image: 'http://3d-printer-comparison.grgprod.com/wp-content/uploads/2016/10/499997-flashforge-finder-3d-printer.jpg'
+image: 'https://yugn27.github.io/atel/images/design/3dprinterpost.jpg'
 categories: design
 ---
 
