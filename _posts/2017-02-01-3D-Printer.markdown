@@ -2,7 +2,7 @@
 layout: post
 title:  "3D Printer"
 description: 3D Printer 
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807239/morpheus_xdzgg1.jpg'
+image: 'http://3d-printer-comparison.grgprod.com/wp-content/uploads/2016/10/499997-flashforge-finder-3d-printer.jpg'
 categories: design
 ---
 
