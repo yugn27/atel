@@ -2,7 +2,6 @@
 layout: post
 title:  "PROJECTS ON RASPBERRY PI"
 description:  PROJECTS ON RASPBERRY PI
-image: 'https://yugn27.github.io/atel/images/design/3dprinterpost.jpg'
 categories: project
 ---
 
