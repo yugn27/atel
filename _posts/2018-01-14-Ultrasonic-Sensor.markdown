@@ -2,7 +2,6 @@
 layout: post
 title:  "Ultrasonic Sensor"
 description: Ultrasonic Sensor
-image: 'https://yugn27.github.io/atel/images/design/3dprinterpost.jpg'
 categories: Electronic
 ---
  
