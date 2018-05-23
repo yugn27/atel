@@ -66,8 +66,6 @@ http://receiveanswer.com/A2C
 <iframe src="https://www.youtube.com/embed/RG94HaZegWQ" style="width: 100%; height: 225px" frameborder="0"> 
 
 
-
-
 # 5. Portable Mobile phone charger 9v
 ![]({{site.baseurl}}/images/Tinkering/Elementary/5.jpg)
 
@@ -92,7 +90,6 @@ Female USB connector – Type A
 Plastic Bottles
 Cutter
 Scissors
-<iframe src="https://www.youtube.com/embed/itvDyS3N6jY" style="width: 100%; height: 225px" frameborder="0"> 
 
 
 
