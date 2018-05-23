@@ -91,7 +91,7 @@ Plastic Bottles
 Cutter
 Scissors
 
-<iframe id="DelayReasonw" src="https://www.youtube.com/embed/itvDyS3N6jY" style="width: 100%; height: 225px" frameborder="0"> 
+https://www.youtube.com/watch?v=itvDyS3N6jY
 
 
 
@@ -101,5 +101,5 @@ Scissors
 
 # 7.Make wireless earphones from wired earphones
 
-<iframe  id="DelayReasonq" src="https://www.youtube.com/embed/zSq4IT_jQPM" style="width: 100%; height: 225px" frameborder="0"> 
+https://www.youtube.com/watch?v=zSq4IT_jQPM
 
