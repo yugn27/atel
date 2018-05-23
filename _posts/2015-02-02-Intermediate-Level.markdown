@@ -12,7 +12,7 @@ categories: project
 
 http://www.instructables.com/id/Arduinonano-Clap-Switch/
 
-![]({{site.baseurl}}/images/Project/NANO/nano1.png)
+![]({{site.baseurl}}/images/Tinkering/Intermediate%20Level/1.jpg)
 
 
 ### Component Used:
@@ -37,7 +37,7 @@ Connect the anode(bigger leg of the LED) to digital pin 12 of the Arduino nano
 
 http://www.instructables.com/id/Arduino-Simple-Memory-Game/
 
-![]({{site.baseurl}}/images/Project/NANO/nano1.png)
+![]({{site.baseurl}}/images/Tinkering/Intermediate%20Level/2.jpg)
 
 
 ### Components Used:
@@ -51,14 +51,13 @@ Jumper Cables
 
 ### Circuit Diagram:
 
-![]({{site.baseurl}}/images/Project/NANO/nano1.png)
-
+![]({{site.baseurl}}/images/Tinkering/Intermediate%20Level/3.jpg)
 
 
 # 3. Arduino  Nano LCD Stop watch
 https://www.hackster.io/TechWithZan/arduino-nano-lcd-stopwatch-without-potentiometer-7a2854
 
-![]({{site.baseurl}}/images/Project/NANO/nano1.png)
+![]({{site.baseurl}}/images/Tinkering/Intermediate%20Level/4.jpg)
 
 
 ### Materials Used:
@@ -76,7 +75,7 @@ Jumper Wires
 # 4. Portable USB Charger
 https://www.build-electronic-circuits.com/portable-usb-charger-circuit/
 
-![]({{site.baseurl}}/images/Project/NANO/nano1.png)
+![]({{site.baseurl}}/images/Tinkering/Intermediate%20Level/5.jpg)
 
 
 ### Components Used:
@@ -91,7 +90,7 @@ https://www.build-electronic-circuits.com/portable-usb-charger-circuit/
 
 ### Circuit Diagram
 
-![]({{site.baseurl}}/images/Project/NANO/nano1.png)
+![]({{site.baseurl}}/images/Tinkering/Intermediate%20Level/6.jpg)
 
 
 
@@ -101,7 +100,7 @@ https://www.build-electronic-circuits.com/portable-usb-charger-circuit/
 # 5. Electronic Mosquito Repellent Circuit
 https://circuitdigest.com/electronic-circuits/mosquito-repellent-circuit
 
-![]({{site.baseurl}}/images/Project/NANO/nano1.png)
+![]({{site.baseurl}}/images/Tinkering/Intermediate%20Level/7.jpg)
 
 
 
@@ -115,7 +114,7 @@ Breadboard and connecting wires
  
 ### Circuit Diagram
 
-![]({{site.baseurl}}/images/Project/NANO/nano1.png)
+![]({{site.baseurl}}/images/Tinkering/Intermediate%20Level/8.jpg)
 
 
 
@@ -136,7 +135,7 @@ LED (Optional)
 
 ### Circuit Diagram
 
-![]({{site.baseurl}}/images/Project/NANO/nano1.png)
+![]({{site.baseurl}}/images/Tinkering/Intermediate%20Level/9.jpg)
 
  
 
@@ -147,7 +146,7 @@ LED (Optional)
 # 7. Make your own Calculator
 https://circuitdigest.com/microcontroller-projects/arduino-calculator-using-4x4-keypad
 
-![]({{site.baseurl}}/images/Project/NANO/nano1.png)
+![]({{site.baseurl}}/images/Tinkering/Intermediate%20Level/10.jpg)
 
 
 ### Materials Required:
@@ -159,5 +158,5 @@ Breadboard and Connecting wires
 
 ### Circuit Diagram:
 
-![]({{site.baseurl}}/images/Project/NANO/nano1.png)
+![]({{site.baseurl}}/images/Tinkering/Intermediate%20Level/11.jpg)
 
