@@ -100,7 +100,7 @@ https://www.build-electronic-circuits.com/portable-usb-charger-circuit/
 # 5. Electronic Mosquito Repellent Circuit
 https://circuitdigest.com/electronic-circuits/mosquito-repellent-circuit
 
-![]({{site.baseurl}}/images/Tinkering/Intermediate%20Level/7.jpg)
+![]({{site.baseurl}}/images/Tinkering/Intermediate%20Level/7.png)
 
 
 
@@ -135,7 +135,7 @@ LED (Optional)
 
 ### Circuit Diagram
 
-![]({{site.baseurl}}/images/Tinkering/Intermediate%20Level/9.jpg)
+![]({{site.baseurl}}/images/Tinkering/Intermediate%20Level/9.gif)
 
  
 
@@ -158,5 +158,5 @@ Breadboard and Connecting wires
 
 ### Circuit Diagram:
 
-![]({{site.baseurl}}/images/Tinkering/Intermediate%20Level/11.jpg)
+![]({{site.baseurl}}/images/Tinkering/Intermediate%20Level/11.png)
 
