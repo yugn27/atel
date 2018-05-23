@@ -16,14 +16,14 @@ categories: project
 5. Vibrator motor 
 6. Two Hard Wires (about 5 cm)
 
-![]({{site.baseurl}}/images/Project/BB/BB1.png)
+![]({{site.baseurl}}/images/Tinkering/Elementary/1.png)
 
 
 
 
 # 2. High Power pen gun
 
-![]({{site.baseurl}}/images/Project/BB/BB1.png)
+![]({{site.baseurl}}/images/Tinkering/Elementary/2.jpg)
 
 ### Materials:
 1.Pen 
@@ -35,7 +35,7 @@ https://www.wikihow.com/Make-a-High-Powered-Pen-Gun
 
 
 # 3. Torch/flashlight using DC motor generator
-![]({{site.baseurl}}/images/Project/BB/BB1.png)
+![]({{site.baseurl}}/images/Tinkering/Elementary/3.jpg)
 
 ### Materials:
 1.PVC Pipe and Elbow
@@ -53,7 +53,7 @@ http://receiveanswer.com/A2C
 
 # 4. Homemade Air cooler
 
-![]({{site.baseurl}}/images/Project/BB/BB1.png)
+![]({{site.baseurl}}/images/Tinkering/Elementary/4.jpg)
 
 ### Materials required:
 1× 9v Battery
@@ -68,7 +68,7 @@ https://www.youtube.com/watch?v=RG94HaZegWQ
 
 
 # 5. Portable Mobile phone charger 9v
-![]({{site.baseurl}}/images/Project/BB/BB1.png)
+![]({{site.baseurl}}/images/Tinkering/Elementary/5.jpg)
 
 ### Materials Used:
 1 × Soldering board 
@@ -82,8 +82,7 @@ Female USB connector – Type A
 
 ### Circuit Diagram:
 
-![]({{site.baseurl}}/images/Project/BB/BB1.png)
-
+![]({{site.baseurl}}/images/Tinkering/Elementary/5.jpg)
 
 
 # 6.Make hologram projector
