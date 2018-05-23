@@ -63,7 +63,8 @@ http://receiveanswer.com/A2C
 1× DC Motor
 1× Ice cubes
 
-https://www.youtube.com/watch?v=RG94HaZegWQ
+<iframe src="https://www.youtube.com/embed/RG94HaZegWQ" style="width: 100%; height: 225px" frameborder="0"> 
+
 
 
 
@@ -91,8 +92,8 @@ Female USB connector – Type A
 Plastic Bottles
 Cutter
 Scissors
+<iframe src="https://www.youtube.com/embed/itvDyS3N6jY" style="width: 100%; height: 225px" frameborder="0"> 
 
-https://www.youtube.com/watch?v=itvDyS3N6jY
 
 
 
@@ -101,5 +102,5 @@ https://www.youtube.com/watch?v=itvDyS3N6jY
 
 # 7.Make wireless earphones from wired earphones
 
-https://www.youtube.com/watch?v=zSq4IT_jQPM
+<iframe src="https://www.youtube.com/embed/zSq4IT_jQPM" style="width: 100%; height: 225px" frameborder="0"> 
 
