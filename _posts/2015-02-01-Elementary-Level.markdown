@@ -63,7 +63,7 @@ http://receiveanswer.com/A2C
 1× DC Motor
 1× Ice cubes
 
-<iframe id="DelayReasoner" src="https://www.youtube.com/embed/RG94HaZegWQ" style="width: 100%; height: 225px" frameborder="0"> 
+<iframe id="DelayReasoner" src="https://www.youtube.com/embed/RG94HaZegWQ" style="width: 100%; height: 225px" frameborder="0"> </iframe>
 
 
 # 5. Portable Mobile phone charger 9v
@@ -91,7 +91,8 @@ Plastic Bottles
 Cutter
 Scissors
 
-https://www.youtube.com/watch?v=itvDyS3N6jY
+<iframe id="DelayReasoner" src="https://www.youtube.com/embed/zSq4IT_jQPM" style="width: 100%; height: 225px" frameborder="0"> </iframe>
+
 
 
 
@@ -102,4 +103,5 @@ https://www.youtube.com/watch?v=itvDyS3N6jY
 # 7.Make wireless earphones from wired earphones
 
 https://www.youtube.com/watch?v=zSq4IT_jQPM
+<iframe id="DelayReasoner" src="https://www.youtube.com/embed/itvDyS3N6jY" style="width: 100%; height: 225px" frameborder="0"> </iframe>
 
