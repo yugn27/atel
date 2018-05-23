@@ -81,10 +81,13 @@ Female USB connector – Type A
 
 ### Circuit Diagram:
 
-![]({{site.baseurl}}/images/Tinkering/Elementary/5.jpg)
+![]({{site.baseurl}}/images/Tinkering/Elementary/6.jpg)
 
 
 # 6.Make hologram projector
+
+
+![]({{site.baseurl}}/images/Tinkering/Elementary/7.jpg)
 
 ### Materials used:
 Plastic Bottles
