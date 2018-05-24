@@ -10,7 +10,7 @@ categories: project
 # 1. LIE SENSOR 
 https://create.arduino.cc/projecthub/user269049/lie-sensor-d12993?ref=part&ref_id=11332&offset=15
 
-![]({{site.baseurl}}/images/Project/UNO/01.png)
+![]({{site.baseurl}}/images/Tinkering/Advanced/1.jpg)
 
 ## Materials Used
 Arduino nano
@@ -23,7 +23,7 @@ Open build wire cable
 
 ## CIRCUIT DIAGRAM
 
-![]({{site.baseurl}}/images/Project/UNO/01.png)
+![]({{site.baseurl}}/images/Tinkering/Advanced/2.jpg)
 
 
 
@@ -31,8 +31,7 @@ Open build wire cable
 # 2. Automatic Motion Sensor Trash Can
 https://create.arduino.cc/projecthub/will-su/touchless-automatic-motion-sensor-trash-can-bbeed1?ref=tag&ref_id=servo&offset=4
 
-![]({{site.baseurl}}/images/Project/UNO/01.png)
-
+![]({{site.baseurl}}/images/Tinkering/Advanced/3.jpg)
 ## Materials used:
 Arduino Micro 
 Ultrasonic Sensor
@@ -42,14 +41,13 @@ Wires and Jumpers
 
 ## Circuit Diagram:
 
-![]({{site.baseurl}}/images/Project/UNO/01.png)
-
+![]({{site.baseurl}}/images/Tinkering/Advanced/4.jpg)
 
 
 # 3. Smart phone controlled Robot
 http://www.instructables.com/id/Pipe-Bot-a-Smart-Arduino-Bluetooth-Robot/
 
-![]({{site.baseurl}}/images/Project/UNO/01.png)
+![]({{site.baseurl}}/images/Tinkering/Advanced/5.jpg)
 
 ## Materials Used:
 Arduino pro mini 
@@ -69,7 +67,7 @@ Now I used 200 rpm motors and then for balancing use 500rpm motors.
  
 ## Circuit Diagram:
 
-![]({{site.baseurl}}/images/Project/UNO/01.png)
+![]({{site.baseurl}}/images/Tinkering/Advanced/6.jpg)
 
 
 
@@ -102,10 +100,9 @@ a garment or a piece of fabric to work on
  a pair of scissors.
 
 ## Design:
-![]({{site.baseurl}}/images/Project/UNO/01.png)
+![]({{site.baseurl}}/images/Tinkering/Advanced/7.jpg)
 
-![]({{site.baseurl}}/images/Project/UNO/01.png)
-
-![]({{site.baseurl}}/images/Project/UNO/01.png)
+![]({{site.baseurl}}/images/Tinkering/Advanced/8.jpg)
+![]({{site.baseurl}}/images/Tinkering/Advanced/9.jpg)
               
                        
