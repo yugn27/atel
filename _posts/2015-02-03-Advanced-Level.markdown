@@ -41,7 +41,7 @@ Wires and Jumpers
 
 ## Circuit Diagram:
 
-![]({{site.baseurl}}/images/Tinkering/Advanced/4.jpg)
+![]({{site.baseurl}}/images/Tinkering/Advanced/4.png)
 
 
 # 3. Smart phone controlled Robot
