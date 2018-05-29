@@ -2,7 +2,7 @@
 layout: page
 title: Store
 permalink: /store/
-show-in-menu: yes
+show-in-menu: no
 ---
 
     
