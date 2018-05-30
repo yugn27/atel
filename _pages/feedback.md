@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Store
-permalink: /store/
+title: Feedback
+permalink: /feedback/
 show-in-menu: yes
 ---
 
