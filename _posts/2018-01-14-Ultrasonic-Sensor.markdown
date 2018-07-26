@@ -76,6 +76,10 @@ ECHO connection of the sensor attached to digital pin 4
  
 
 ### Step3: Programming Arduino
+
+<script src="https://gist.github.com/yugn27/91db4682025b2083ba05d2ed11963626.js"></script>
+
+
 const int trigPin = 2;
 const int echoPin = 4;
 void setup() {
