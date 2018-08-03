@@ -79,3 +79,4 @@ Control an LED using a Phone
 ### Step10: Disconnect button to disconnect from Bluetooth module
  
 ### Step11: Observe the output
+![]({{site.baseurl}}/images/Electronic/chp19/04.jpg)
