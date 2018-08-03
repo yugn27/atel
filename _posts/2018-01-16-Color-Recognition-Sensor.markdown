@@ -11,16 +11,16 @@ categories: Electronic
 ### What is Color Recognition Sensor?
 The TCS3200 color sensor can detect a wide variety of colors based on their wavelength. This sensor is specially useful for color recognition projects such as color matching, color sorting, test strip reading and much more.
 
-![]({{site.baseurl}}/images/Electronic/chap16/01.jpg)
+![]({{site.baseurl}}/images/Electronic/chap16/1.jpg)
 
 ### How does it work?
 The light sensor works by shining a white light at an object and then recording the reflected color. It can also record the intensity of the reflection (brightness). Through red, green and blue color filters the photodiode converts the amount of light to current. The converter then converts the current to voltage which our arduino can read.
 
 Pinout
 
-![]({{site.baseurl}}/images/Electronic/chp16/02.jpg)
+![]({{site.baseurl}}/images/Electronic/chp16/2.jpg)
 
-![]({{site.baseurl}}/images/Electronic/chp16/03.jpg)
+![]({{site.baseurl}}/images/Electronic/chp16/3.jpg)
 
  
 Here’s the sensor pinout:                		
@@ -55,7 +55,7 @@ Voltage supply
 ### How TCS230 color Sensor works?
 The TCS230 senses color light with the help of an 8 x 8 array of photodiodes. Then using a Current-to-Frequency Converter the readings from the photodiodes are converted into a square wave with a frequency directly proportional to the light intensity. Finally, using the Arduino Board we can read the square wave output and get the results for the color.
  
-![]({{site.baseurl}}/images/Electronic/chp16/04.png)
+![]({{site.baseurl}}/images/Electronic/chp16/4.png)
 
 ### Applications
 It is used for many purposes like in sorting out raw coffee beans of different shades, in sorting out a different color of candies, in the identification of easily verifying shades of color, etc…
