@@ -13,14 +13,14 @@ Piezoelectricity (also called the piezoelectric effect) is the appearance of an 
 In practice, the crystal becomes a kind of tiny battery with a positive charge on one face and a negative charge on the opposite face; current flows if we connect the two faces together to make a circuit. In the reverse piezoelectric effect, a crystal becomes mechanically stressed (deformed in shape) when a voltage is applied across its opposite faces.
 
 
-![]({{site.baseurl}}/images/Electronic/15/01.jpg)
+![]({{site.baseurl}}/images/Electronic/chp15/01.png)
 
 
 ### How Piezoelectric Plate works?
 As stated, compressing a piezoelectric material produces electricity (piezoelectricity). Figure below explains the concept.
 1. The piezoelectric effect occurs through compression of a piezoelectric material.
 
-![]({{site.baseurl}}/images/Electronic/15/01.jpg)
+![]({{site.baseurl}}/images/Electronic/chp15/02.jpg)
 
 Piezoceramic material—non-conductive piezoelectric ceramic or crystal—is placed between the two metal plates. For piezoelectricity to be generated, it needs that material to be compressed or squeezed. Mechanical stress applied to piezoelectric ceramic material generates electricity.
 As shown in Fig. above there’s a voltage potential across the material. The two metal plates sandwich the piezo crystal. The metal plates collect the charges, which creates/produces voltage (lightning bolt symbol), i.e., piezoelectricity. In this way, the piezoelectric effect acts like a miniature battery, because it produces electricity. This is the direct piezoelectric effect. Devices that use the direct piezoelectric effect include microphones, pressure sensors, hydrophones, and many other sensing types of devices.
@@ -44,7 +44,7 @@ Things you will need.
 
 ### Step2: Connections with Arduino 
 
-![]({{site.baseurl}}/images/Electronic/15/01.jpg)
+![]({{site.baseurl}}/images/Electronic/chp15/03.jpg)
 
 
 
