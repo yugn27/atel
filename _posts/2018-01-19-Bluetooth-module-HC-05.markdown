@@ -9,7 +9,7 @@ categories: Electronic
 ### What is Bluetooth module?
 Bluetooth is a technology for wireless communication. It is designed to replace cable connections .It uses serial communication to communicate with devices. It communicates with microcontroller using serial port (USART). Usually, it connects small devices like mobile phones, PDAs and TVs using a short-range wireless connection to exchange documents. It uses the 2.45GHz frequency band. The connection can be point-to-point or multi-point where the maximum range is 10 meters. The transfer rate of the data is 1Mbps.
 
-![]({{site.baseurl}}/images/Electronic/chp19/01.jpg)
+![]({{site.baseurl}}/images/Electronic/chp19/1.jpg)
 
 ### Pin Description
 The HC-05 Bluetooth Module has 6pins. They are as follows:
@@ -30,7 +30,7 @@ BUTTON SWITCH:
 This is used to switch the module into AT command mode. To enable AT command mode, press the button switch for a second. With the help of AT commands, the user can change the parameters of this module but only when the module is not paired with any other BT device. If the module is connected to any other bluetooth device, it starts to communicate with that device and fails to work in AT command mode.
 
 
-![]({{site.baseurl}}/images/Electronic/chp19/02.jpg)
+![]({{site.baseurl}}/images/Electronic/chp19/2.jpg)
 
 ### Applications
 1. Wireless communication between two microcontrollers
@@ -55,7 +55,7 @@ Control an LED using a Phone
 ### Step2: Connections with Arduino UNO 
 
 
-![]({{site.baseurl}}/images/Electronic/chp19/03.png)
+![]({{site.baseurl}}/images/Electronic/chp19/3.png)
 
 
 
@@ -79,4 +79,4 @@ Control an LED using a Phone
 ### Step10: Disconnect button to disconnect from Bluetooth module
  
 ### Step11: Observe the output
-![]({{site.baseurl}}/images/Electronic/chp19/04.jpg)
+![]({{site.baseurl}}/images/Electronic/chp19/4.jpg)
