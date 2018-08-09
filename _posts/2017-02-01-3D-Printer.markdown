@@ -2,7 +2,6 @@
 layout: post
 title:  "3D Printer"
 description: 3D Printer 
-image: 'https://yugn27.github.io/atel/images/design/3dprinterpost.jpg'
 categories: design
 ---
 
