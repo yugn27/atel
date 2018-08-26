@@ -47,35 +47,7 @@ When it detects a passage the Arduino will change the state of the pin 7 which w
  
  
 The arduino code:
-
-              int inputSensor = 2; // Output pin of IR Sensor
-              int PlayE = 7; // Voice recorder pin
-              int irState = LOW; // IR Sensor is low by default
-              int val = 0;
-              void setup()
-            {
-                pinMode(inputSensor, INPUT); // Pin 2 en entrée
-                pinMode(PlayE, OUTPUT); // Pin 7 en sortie
-                Serial.begin(9600);
-                Serial.println("init");
-              }
-               
-               void loop()
-           {
-               val = digitalRead(inputSensor);
-               if (val == HIGH) {
-               if (irState == LOW) {
-               digitalWrite(PlayE,HIGH);
-               irState = HIGH;
-            }
-                } else
-            {  
-                if (irState == HIGH){
-                digitalWrite(PlayE,LOW);
-                irState = LOW;
-             }
-                }
-                }
+<script src="https://gist.github.com/saylitechno/69adfbfa300e6e2107f38fe8e1845f41.js"></script>
              
 Abbreviation
 DC – Direct Current
