@@ -95,8 +95,8 @@ Step5: Connect the buzzer
 
 Step6: Program the Arduino:
  
- ![]({{site.baseurl}}/images/Electronic/8/10.jpg)
- ![]({{site.baseurl}}/images/Electronic/8/11.jpg)
+ <script src="https://gist.github.com/saylitechno/436f02465d64a1f293860d9ac82567ee.js"></script>
+
  
 Step7: Test your Alarm
  
