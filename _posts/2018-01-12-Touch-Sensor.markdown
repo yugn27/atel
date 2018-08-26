@@ -49,29 +49,8 @@ The touch sensor is connected to D2 of the Arduino
 Connect LED to pin 
 
 ### Step3: upload the sketch to Arduino
-#define TOUCH_SENSOR 2 //the touch sensor is connected to D2 of the Arduino
- 
-int led = 9; // pin for the LED
- 
-void setup()
-{
-Serial.begin(9600);
-pinMode(led, OUTPUT);
-pinMode(TOUCH_SENSOR, INPUT);
-}
- 
-void loop()
-{
-int sensorValue = digitalRead(TOUCH_SENSOR);
-if(sensorValue)
-{
-Serial.println("Touch detected");
-digitalWrite(led, HIGH); // turn LED on
-while(digitalRead(TOUCH_SENSOR) == HIGH);
-Serial.println("No Touch detected");
-digitalWrite(led, LOW); // turn LED off
-}
-}
+<script src="https://gist.github.com/saylitechno/6b0ceef71fdc20e173c6f01a2e799f30.js"></script>
+
  
  
  
