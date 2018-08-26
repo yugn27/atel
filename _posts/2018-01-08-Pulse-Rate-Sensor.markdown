@@ -93,8 +93,8 @@ You have to download this library before uploading the sample source code into y
 
 
 ### Step 6: Sample Source Code
-![]({{site.baseurl}}/images/ckt01.png)
-![]({{site.baseurl}}/images/ckt01.png)
+<script src="https://gist.github.com/saylitechno/b7fa18400845a6c28bf5c8bfc1e2b7f1.js"></script>
+
 
 
 NOTE: DO NOT connect the Pulse Sensor to your body while your computer or arduino is being powered from the mains AC line. That goes for charging laptops and DC power supplies.
