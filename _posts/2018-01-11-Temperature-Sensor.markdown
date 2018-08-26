@@ -38,22 +38,7 @@ LM35 temperature sensor
 
 
 ### Step3: Code
-float temp;
-int tempPin = 0;
-void setup()
-{
-Serial.begin(9600);
-}
-void loop()
-{
-temp = analogRead(tempPin);
-temp = temp * 0.48828125;
-Serial.print("TEMPRATURE = ");
-Serial.print(temp);
-Serial.print("*C");
-Serial.println();
-delay(1000);
-}
+<script src="https://gist.github.com/saylitechno/13dcf4cdfdc3a109f116ac5462de398e.js"></script>
 
 
 ### Step4: Result
