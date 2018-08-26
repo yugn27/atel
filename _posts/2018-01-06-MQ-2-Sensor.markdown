@@ -41,17 +41,8 @@ Vcc to Arduino 5V pin
 GND to Arduino GND pin
 Output to Arduino Analog A0 pin
 ### Step3: Code
-const int gasPin = A0; //GAS sensor output pin to Arduino analog A0 pin
-void setup()
-{
- Serial.begin(9600); //Initialize serial port - 9600 bps
-}
-void loop()
-{
-Serial.println(analogRead(gasPin));
-delay(1000); // Print value every 1 sec.
-}
-Step4: Observe the Result on Serial monitor.
+
+<script src="https://gist.github.com/saylitechno/e01a6b89c64d4c2f01a25f083f271469.js"></script>
  
 # Below are the examples of MQ series sensor. Enjoy making!!
  
