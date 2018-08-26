@@ -7,10 +7,6 @@ categories: design
 
 
 
-
-
-![]({{site.baseurl}}/images/design/2/02.png)
-
 # Wood Working
 Wood working or carpentry is a skilled trade which is used for designing cutting processing of wood into different shapes and sizes according to the need.
 Given below are carpentry tools which you will often come across while working in the lab:
@@ -31,14 +27,14 @@ Hacksaw cutter
 It consists of a fine toothed blade which is held by a C- Frame with a handle under tension. This cutter is usually used for cutting wood or metal.  
 Safety Precaution:  Care should be taken while handling this tool due to sharpness.
 
-![]({{site.baseurl}}/images/design/woodworking/tools/3.jpg)
+![]({{site.baseurl}}/images/design/woodworking/tools/3.png)
 
 
 
 Filer and Sandpaper
 
-![]({{site.baseurl}}/images/design/woodworking/tools/4.jpg)
-![]({{site.baseurl}}/images/design/woodworking/tools/5.jpg)
+![]({{site.baseurl}}/images/design/woodworking/tools/4.png)
+![]({{site.baseurl}}/images/design/woodworking/tools/5.png)
 
 
 
