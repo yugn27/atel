@@ -1,6 +1,6 @@
-Bheema is a theme suitabel for image heavy journal kind of websites. 
+Atal Tinkering Chapter 
 
-Demo: [http://webjeda.com/ashwath/](http://webjeda.com/ashwath/)
+Demo: [https://yugn27.github.io/atel/](https://yugn27.github.io/atel/)
 
 
 ## Installation
